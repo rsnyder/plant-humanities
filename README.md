@@ -1,4 +1,4 @@
-<param ve-config title="Plant Humanities" header="plants-index">
+<param ve-config title="Plant Humanities" header="index-header">
 
 # Featured Plant Narratives
 
