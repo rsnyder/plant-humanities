@@ -1,8 +1,8 @@
-<param ve-config title="Plant Humanities" layout="index" header="plants-index">
+<param ve-config title="Plant Humanities">
 
-# Featured Plant Narratives
+# Featured Plant Narratives {.cards}
 
-## 
+##
 [**Cacao: Indigenous Network to Global Commodity**](/cacao)
 
 - author: Rebecca Friedel
@@ -38,7 +38,7 @@
 ![](/images/thumbnails/Banana.jpg)
 
 
-# All Plant Narratives
+# All Plant Narratives {.cards}
 
 ##
 [**Agave: A Plant with an Intoxicating History**](/Agave)
