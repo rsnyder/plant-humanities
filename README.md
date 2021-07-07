@@ -1,4 +1,4 @@
-<param ve-config title="Plant Humanities">
+<param ve-config title="Plant Humanities"> 
 
 # Featured Plant Narratives {.cards}
 
