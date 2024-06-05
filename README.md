@@ -63,13 +63,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/black_eyed_pea_1.png)
 
-## Ayahuasca: Amazonian Plant Lessons
-[Ayahuasca: Amazonian Plant Lessons](ayahuasca)
-
-- Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/ayahuasca.jpg)
-
 # All Plant Narratives 
 `.cards`
 
@@ -190,6 +183,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Victoria Pickering
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mint.jpg) 
+
+## Opium Poppy: A Cursed Beauty
+[Opium Poppy: A Cursed Beauty](poppy)
+
+- Carol Chang, Heather Rose Craddock, and Alejandro Garay
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg)
 
 ## Peanut: From Luxury Food to Livestock Feed
 [Peanut: From Luxury Food to Livestock Feed](peanut)
