@@ -24,9 +24,9 @@ This essay provides an approachable overview of herbarium specimens and how they
 ## Opium Poppy: A Cursed Beauty
 [#Opium Poppy: A Cursed Beauty](poppy)
 
--Carol Chang, Heather Rose Craddock, and Alejandro Garay
+- Carol Chang, Heather Rose Craddock, and Alejandro Garay
 
-![](https://raw.githubusercontent.com/plant-humanities/media/blob/main/thumbnails/poppy.jpg)
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg)
 
 ## Quinoa: From Indigenous Crop to International Superfood
 [Quinoa: From Indigenous Crop to International Superfood](quinoa)
