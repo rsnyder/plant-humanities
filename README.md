@@ -21,7 +21,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
-##Opium Poppy: A Cursed Beauty
+## Opium Poppy: A Cursed Beauty
 [#Opium Poppy: A Cursed Beauty](poppy)
 
 -Carol Chang, Heather Rose Craddock, and Alejandro Garay
