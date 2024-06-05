@@ -216,15 +216,16 @@ The artwork of the contemporary Colombian artist Juan Fernando Herrán (Bogotá,
 				
 ## Policing, Farmers, Eradication
 
+<param ve-image 
+       url="https://raw.githubusercontent.com/plant-humanities/media/main/poppy/juanpoppycolombia22.jpg"
+       label="Judicial Triptych, Color and Black and White Prints"
+       license="Image used with permission of the artist">
+
 The spread of poppy crops in Colombia was a social and economic phenomenon, especially for small farmers who saw it as a unique opportunity to cultivate and trade a plant that had been recently introduced into the country. The rapid acceleration of trafficking and consumption of heroin also resulted in the emergence in the 1990s of policies to prosecute growers and exterminate the plant. This resulted in a constant fear spread throughout the homes of peasants and Indigenous peoples who did most of the opium planting in remote places and on small farms.[^ref23] In 2000, the Colombian government signed "[Plan Colombia](Q1702988)," a political and economic initiative with the United States whose mission was to eradicate from the country illicit crops such as cocaine, marijuana, and opium poppy. The exponential increase in poppy cultivation put the country at the top of the world's poppy producers, and Colombian heroin became sought after in foreign markets due to its high purity level. With Plan Colombia, the government began a campaign of strong police persecution of both the plant and the people who cultivated it. The eradication occurred manually, with many people digging it up and an intense and ineffective aerial application of glyphosate, a potent herbicide. Uncertainty and paranoia seemed to be in the air all the time. The government created a battleground that translated into a metaphor for a vigilante state.
 
 This phenomenon of eradication and the intervention of other governments did not only occur in Colombia, for instance, Afghanistan.  Over 80 percent of global opium production occurs in Afghanistan,[^ref24] where illicit poppy production has benefited from both the Taliban’s and U.S. government's war on drugs.[^ref25] As in Colombia, persecution and eradication became government policy, leading to April 2022, when the Taliban supreme leader Haibatullah Akhundzada decreed that poppy cultivation be prohibited; this led to increased insecurity, displacement, and uncertainties for farmers. At the same time, it appears that opium production has increased under Taliban rule.[^ref26]
           
 In his Papaver somniferum series, artist Juan Fernando Herrán presents a Tríptico judicial, for which he appropriated a photograph from one of the most important newspapers in Bogota. The image in the center shows two peasants who have been caught by the police and are shown with what they have been arrested for. A table with a delicate tablecloth displays, stretching from side to side, a large bouquet of opium poppies. On one side of the table, almost imperceptibly, we can see two blades and two containers, “proof” that the two men are guilty even before their trial. On either side of the image, Herrán has added two “natural” capsules, composing a scene where the two capsules are two portraits in dialogue with the photograph. The artist conceives the scratching action on each of the capsules as the inscription of an "invitation": a promise that is to come while at the same time is being cut off. The plant represents the place where certain impoverished communities can dream of a better future, but the dream is disrupted, and the invitation becomes a sign of deception, injustice, and displacement for those communities.
-<param ve-image 
-       url="https://raw.githubusercontent.com/plant-humanities/media/main/poppy/juanpoppycolombia22.jpg"
-       label="Judicial Triptych, Color and Black and White Prints"
-       license="Image used with permission of the artist">
 
 ## Displacement and Environmental Terror
 
