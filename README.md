@@ -22,7 +22,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 `.cards`
 
 ## Opium Poppy: A Cursed Beauty
-[#Opium Poppy: A Cursed Beauty](poppy)
+[Opium Poppy: A Cursed Beauty](poppy)
 
 - Carol Chang, Heather Rose Craddock, and Alejandro Garay
 
