@@ -239,6 +239,14 @@ Sierra Roark is a doctoral candidate in the Department of Anthropology at the Un
 
 Amara Santiesteban is a biologist specializing in botany from the Autonomous University of Madrid (Spain). She holds an MSc in Tropical Biodiversity and Conservation, where she entered the world of Plant Humanities by studying the expedition of the XVIII century naturalist Alexander von Humboldt to the Canary Islands (Spain). Santiesteban was also granted during this period a JAE Intro fellowship at the Royal Botanical Garden of Madrid, where she was given the opportunity to untangle the complex taxonomy of the tropical plant family of the Brazil nut (Bertholletia excelsa, Lecythidaceae). Currently, she has been awarded a Ph.D. contract to conduct her research on the effects of wildfires on mycorrhizal fungi and their impact on plants, but she is determined to keep on working on a multidisciplinary approach of plant sciences where the local knowledge, art, literature, and naturalism walk side by side. The Dumbarton Oaks Summer Program provided the perfect ground for this young researcher to take off in this new stage of her academic career.
 
+## Elaine Savory
+
+[Elaine Savory]
+
+![](https://raw.githubusercontent.com/plant-humanities/essays/main/contributors/Savory.jpg)
+
+Elaine Savory, Phd., is Emeritus Professor, Literary Studies and Environmental Studies, New School University, New York City. She has published widely on Caribbean and African literatures and most recently in environmental humanities, focusing on plants.
+
 ## John R. Schaefer
 
 [John R. Schaefer]()
