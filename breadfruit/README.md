@@ -314,7 +314,7 @@ Breadfruit’s journey across the world has tangled it with traumatic human hist
     license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
 {#paragraph35}
 
-*Note: the author would like to extend thanks to Matthew Turetsky for his contributions to this essay.*
+*Note: the author wishes to thank Matthew Turetsky, quinoa scholar, who gave enormous assistance to this essay on the breadfruit through completing all the hypertexting.*
 
 ### References
 
