@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## The Breadfruit's Reinvention: Pacific to Caribbean
+[The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
+
+-Elaine Savory
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
+
 ## Opium Poppy: A Cursed Beauty
 [Opium Poppy: A Cursed Beauty](poppy)
 
