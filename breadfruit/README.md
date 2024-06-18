@@ -25,7 +25,7 @@ Like many plants, it has been moved great distances, far beyond its own propagat
     license="public domain">
 {#paragraph2}
 
-Because it was spread through the Pacific Islands by human migration, its presence is part of the evidence for understanding patterns in those movements.[^3] Human selection for particular properties over a long time has resulted in variations in the tree’s being and behavior  (760), including the predominance of seedless varieties and the loss of beneficial fungi.[^4] Zerega et al. calls this “loss of fertility,” resulting from a condition called “[triploidy](Q504558)” (760). This is caused by having three sets of chromosomes, but this loss is offset for humans by  resulting in greater vigor, dark green leaves and larger flowers or fruit.
+Because it was spread through the Pacific Islands by human migration, its presence is part of the evidence for understanding patterns in those movements.[^3] Human selection for particular properties over a long time has resulted in variations in the tree’s being and behavior, including the predominance of seedless varieties and the loss of beneficial fungi.[^4] Zerega et al. calls this “loss of fertility,” resulting from a condition called “[triploidy](Q504558)." This is caused by having three sets of chromosomes, but this loss is offset for humans by  resulting in greater vigor, dark green leaves and larger flowers or fruit.
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
 {#paragraph3}
 
