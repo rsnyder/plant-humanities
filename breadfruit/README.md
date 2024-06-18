@@ -314,6 +314,8 @@ Breadfruit’s journey across the world has tangled it with traumatic human hist
     license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
 {#paragraph35}
 
+*Note: the author would like to extend thanks to Matthew Turetsky for his contributions to this essay.*
+
 ### References
 
 [^1]: See, for a much longer and more detailed essay on the breadfruit: “A Good Thing Spring Up”: The Breadfruit Story in the Caribbean.” Ed. Lesley Wylie. _Understories: Plants and Culture in the American Tropics_. Liverpool: Liverpool University Press. 2023. 41-62.
