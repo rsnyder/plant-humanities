@@ -83,9 +83,9 @@ The representation of Pacific island societies as places of idyllic idleness and
     fit="contain" 
     attribution="Wikimedia Commons" 
     license="public domain">
-
-> This day we took the plants on board, being 774 pots, all in a healthy state; for whenever any plant had an unfavourable appearance, it was replaced by another. The number of those rejected was 302….The natives reckon eight kinds of the breadfruit tree, each of which they distinguish with a different name. I. Patteah. 2. Eroroo. 3. Awanna. 4. MI-re. 5. Oree. 6. Powerro. 7. Appeere. 8. Rowdeeah. In the first, fourth and eighth class, the leaf differs from the rest…The difference of the fruit is principally in the first and eighth class.[^9]
 {#paragraph8}
+> This day we took the plants on board, being 774 pots, all in a healthy state; for whenever any plant had an unfavourable appearance, it was replaced by another. The number of those rejected was 302….The natives reckon eight kinds of the breadfruit tree, each of which they distinguish with a different name. I. Patteah. 2. Eroroo. 3. Awanna. 4. MI-re. 5. Oree. 6. Powerro. 7. Appeere. 8. Rowdeeah. In the first, fourth and eighth class, the leaf differs from the rest…The difference of the fruit is principally in the first and eighth class.[^9]
+
 
 In fascinating research, Audi et al. have shown that two Caribbean cultivars can be directly connected to their Pacific ancestry through genetic data, after over two hundred years. They point out that “Outside of Oceania, the Caribbean is one of the largest growers of breadfruit".[^10] Furthermore, Caribbean seedless cultivars are fairly uniform, lacking genetic diversity, because seedless varieties originate from a single introduction from Tahiti to St. Vincent and the Grenadines. Tahitian cultivar names, however, have been lost (288). Despite their significance in Caribbean diet and culture today, Laura B. Roberts-Nkrumah, a leading expert on breadfruit in the Caribbean, argues that breadfruit is still underutilized, "two and a quarter centuries after its introduction."[^11]
 <param ve-image 
