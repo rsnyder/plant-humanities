@@ -37,7 +37,7 @@ As the previous video makes clear, the breadfruit still has a very important rol
     attribution="Mausio et al. 2020" 
     license="https://creativecommons.org/licenses/by/4.0/">
 {#paragraph4}
-> Islanders have selected, named and grown hundreds of cultivars, distinguished by the following: the presence or absence of seeds; shape, size, skin, or flesh texture of the fruit; cooking or storage qualities; leaf shape; and fruiting season. (335)
+> Islanders have selected, named and grown hundreds of cultivars, distinguished by the following: the presence or absence of seeds; shape, size, skin, or flesh texture of the fruit; cooking or storage qualities; leaf shape; and fruiting season.
 
 A [cultivar](Q4886) is a plant variety produced through selective breeding, and breadfruit has been cultivated for so long, it is appropriate to think of breadfruit as diverse not only in location but in identity. Comparing the world distribution map for the breadfruit with the modern map of the Pacific shows how solidly established to breadfruit is in that region. This map shows Tahiti, the island to which [Captain Cook](Q7324) sailed on all three of his voyages to the Pacific (1772), greatly assisted by a new clock designed to measure longitude. The British were competing with the French to win naval advantage by being able to calculate longitude accurately.[^6]
 <param ve-map center="-17.656781, -149.426688" zoom=10 title="Map of Tahiti">
