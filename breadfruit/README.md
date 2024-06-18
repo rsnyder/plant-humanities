@@ -57,8 +57,9 @@ White planters in the Caribbean had complained because trade after the American 
     fit="contain" title="Parkinson illustrations from Cook Voyage, 1768-1771" 
     attribution="Natural History Museum, London" 
     license="public domain">
+ {#paragraph6}
 > In early 1772 Valentine Morris, Governor of St. Vincent, urged Banks that the introduction of the breadfruit tree would be ‘a great blessing  and benefit’ to the West Indies. Finally in 1775 the planters of Jamaica...voted in their legislature to create two extensive botanic gardens and to place the cost of a full-time botanist on the charge of the colony.[^7]
-{#paragraph6}
+
 
 [Sir Joseph Banks](Q153408), referred to in this quotation, had accompanied Captain Cook on his first voyage to the Pacific (1768-1771). Gentleman botanist, he was keen on collecting useful plants: he would set up a  botanical garden at Kew in 1772 with his monarch’s blessing and on his monarch’s land. Banks came up with the idea that breadfruit was a perfect food because it requires no work, therefore no expense: speaking of Pacific islanders, he writes: “Their chiefest sustenance Bread fruit is procurd with no more trouble than that of climbing a tree and pulling it down.”[^8]
 <param ve-image 
