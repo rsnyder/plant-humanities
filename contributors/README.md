@@ -241,7 +241,7 @@ Amara Santiesteban is a biologist specializing in botany from the Autonomous Uni
 
 ## Elaine Savory
 
-[Elaine Savory]
+[Elaine Savory]()
 
 ![](https://raw.githubusercontent.com/plant-humanities/essays/main/contributors/Savory.jpg)
 
