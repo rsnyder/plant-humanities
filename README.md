@@ -24,7 +24,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 ## The Breadfruit's Reinvention: Pacific to Caribbean
 [The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
 
--Elaine Savory
+- Elaine Savory
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
 
@@ -62,13 +62,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/maize__thumbnail.jpg)
 
 - Julia Fine
-
-## Black-Eyed Pea: Crop, Culture, Class
-[Black-Eyed Pea: Crop, Culture, Class](black_eyed_peas)
-
-- Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/black_eyed_pea_1.png)
 
 # All Plant Narratives 
 `.cards`
@@ -114,6 +107,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Anatole Tchikine
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/boxwood.jpg)
+
+## The Breadfruit's Reinvention: Pacific to Caribbean
+[The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
+
+- Elaine Savory
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
 
 ## Cacao: Indigenous Network to Global Commodity
 [Cacao: Indigenous Network to Global Commodity](cacao)
