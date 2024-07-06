@@ -21,6 +21,20 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## The Breadfruit's Reinvention: Pacific to Caribbean
+[The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
+
+- Elaine Savory
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
+
+## Opium Poppy: A Cursed Beauty
+[Opium Poppy: A Cursed Beauty](poppy)
+
+- Carol Chang, Heather Rose Craddock, and Alejandro Garay
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg)
+
 ## Quinoa: From Indigenous Crop to International Superfood
 [Quinoa: From Indigenous Crop to International Superfood](quinoa)
 
@@ -48,20 +62,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/maize__thumbnail.jpg)
 
 - Julia Fine
-
-## Black-Eyed Pea: Crop, Culture, Class
-[Black-Eyed Pea: Crop, Culture, Class](black_eyed_peas)
-
-- Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/black_eyed_pea_1.png)
-
-## Ayahuasca: Amazonian Plant Lessons
-[Ayahuasca: Amazonian Plant Lessons](ayahuasca)
-
-- Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/ayahuasca.jpg)
 
 # All Plant Narratives 
 `.cards`
@@ -107,6 +107,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Anatole Tchikine
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/boxwood.jpg)
+
+## The Breadfruit's Reinvention: Pacific to Caribbean
+[The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
+
+- Elaine Savory
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
 
 ## Cacao: Indigenous Network to Global Commodity
 [Cacao: Indigenous Network to Global Commodity](cacao)
@@ -183,6 +190,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Victoria Pickering
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mint.jpg) 
+
+## Opium Poppy: A Cursed Beauty
+[Opium Poppy: A Cursed Beauty](poppy)
+
+- Carol Chang, Heather Rose Craddock, and Alejandro Garay
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg)
 
 ## Peanut: From Luxury Food to Livestock Feed
 [Peanut: From Luxury Food to Livestock Feed](peanut)
