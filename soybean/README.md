@@ -158,7 +158,7 @@ Consumers, who are indirectly complicit in the creation of the “ghost acres,�
 			 title="Aerial view of the Amazon Rainforest, near Manaus, the capital of the Brazilian state of Amazonas."
 			 description="Neil Palmer/CIAT, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
 			 fit="contain">
-	{paragraph 21}
+    {paragraph 21}
 
 <span eid="Q169940">Deforestation</span> in the Amazon is moving at a slower rate in 2023 than in previous years, thanks to anti-deforestation policies implemented by Brazil’s president <span eid="Q37181">Luiz Inácio Lula da Silva</span>.[^67] However, rates of destruction are rising in the savannah-like <span eid="Q278512">cerrado</span>, “an ecosystem that sits atop one of the world’s largest sweetwater aquifers.”[^68] This land contains some of the oldest soil on earth, and to successfully grow soybeans requires more and more fertilizers; yet, the region is becoming a popular place for even American midwestern farmers to turn to in hopes of a more fruitful, GM-driven harvest.[^69] With the global demand for soy rising, will soy overtake other landscapes, too? According to the United Nations, the world produces enough food to feed everyone and still have leftovers.[^70] And yet, we are clearing land to make room for a commodity crop, which, at its core, is used as animal feed. Soybean has long been a source of prosperity for humans. Now, the replacement of the original ecosystems with soybean fields is one major factor in the acceleration of <span eid="Q111550147">anthropogenic climate change</span>. Although humans are still choosing soybeans, the question naturally arises: should we?
 <param ve-iframe
