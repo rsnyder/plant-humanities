@@ -110,7 +110,7 @@ Such a massive increase in scale of soybean production aligns with the introduct
 <param ve-knightlab-timeline
 	source="1Y-PnP29dMVReXsWgzIH_FONvVWvMG5LeXqpyrXAnhZA"
 	timenav-position="bottom"
-	hash-bookmark="false”
+	hash-bookmark="false"
 	initial-zoom="1">
 {paragraph 15}
 
