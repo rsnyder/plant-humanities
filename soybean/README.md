@@ -25,22 +25,10 @@ Over the past three decades, soybean growers in parts of South America have deve
 
 ## Humble Origins
 Wild soybeans, *Glycine soja*, were originally found in a geographical range that “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”[^7] *Glycine soja* is thought to have been “naturally distributed … as early as 9,000 years ago.”[^8] For its first couple thousand years of <span eid="Q11395">domestication</span>, however, soy, like wheat at the time, was not considered a prized food for human consumption due to its difficulty to digest without being refined and cooked.[^9]
-<param ve-map
-       center="44, 125"
-       zoom="5"
-       title="Rough borders of Manchuria"
-       prefer-geojson>
-<param ve-map-layer geojson
-       active title="Rough borders of Manchuria"
-       url="https://raw.githubusercontent.com/plant-humanities/essays/main/soybean/manchuriamap.json"
-       show-labels
-       show-titles
-       stroke-width="0">
-<param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/0/01/Magistrates_Wife_and_Daughters%2C_Manchuria%2C_ca._1882-ca._1936_%28imp-cswc-GB-237-CSWC47-LS8-021%29.jpg"
-coords="44, 125"
-size="52, 38"
-circle="true">
+<param ve-image
+	url="https://upload.wikimedia.org/wikipedia/commons/e/ed/John-Tallis-1851-Tibet-Mongolia-and-Manchuria-NE.jpg"
+	description="John-Tallis-1851-Tibet-Mongolia-and-Manchuria-33621.jpg: The staff of John Tallis: The Illustrations by H. Winkles & Engraved by G. Greatbach. The Map Drawn & Engraved by J. Rapkin.derivative work: Vmenkov, Public domain, via Wikimedia Commons"
+	fit="contain">
 {paragraph 3}
 
 Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a <span eid="Q41760">fermented</span> soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the Fan Shengzhi shu, a <span eid="Q7209">Han dynasty</span> agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and <span eid="Q4886">cultivate</span> soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
