@@ -39,7 +39,7 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/0/01/Magistrates_Wife_and_Daughters%2C_Manchuria%2C_ca._1882-ca._1936_%28imp-cswc-GB-237-CSWC47-LS8-021%29.jpg"
 coords="44, 125"
-size="512, 328"
+size="52, 38"
 circle="true">
 {paragraph 3}
 
