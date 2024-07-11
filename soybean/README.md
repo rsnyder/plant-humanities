@@ -10,7 +10,7 @@
 .ve-annotate
 
 ## Introduction
-The average consumer may not realize that soy is found in almost everything they eat. It can be found on the coating of apples, in chocolate bars, and it comprises most of the vegetable oil we consume — some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
+Soy is everywhere. It can be found on the coating of fruit in the grocery store, in candy bars, and it comprises most of the vegetable oil we consume. Some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Soybean_Oil%2C_Meal_and_Beans_%2810059732523%29.jpg"
        title="Soybean Oil, Meal, and Beans"
        description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons"
