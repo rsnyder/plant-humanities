@@ -30,13 +30,17 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
        zoom="5"
        title="Rough borders of Manchuria"
        prefer-geojson>
-<param ve-map basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson
        active title="Rough borders of Manchuria"
        url="https://raw.githubusercontent.com/plant-humanities/essays/main/soybean/manchuriamap.json"
        show-labels
        show-titles
        stroke-width="0">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/0/01/Magistrates_Wife_and_Daughters%2C_Manchuria%2C_ca._1882-ca._1936_%28imp-cswc-GB-237-CSWC47-LS8-021%29.jpg"
+coords="44, 125"
+size="512, 328"
+circle="true">
 {paragraph 3}
 
 Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a <span eid="Q41760">fermented</span> soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the Fan Shengzhi shu, a <span eid="Q7209">Han dynasty</span> agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and <span eid="Q4886">cultivate</span> soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
