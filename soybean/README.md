@@ -32,7 +32,7 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
        prefer-geojson>
 <param ve-map-layer geojson
        active title="Rough borders of Manchuria"
-       url="https://raw.githubusercontent.com/plant-humanities/essays/main/soybean/map (4).geojson"
+       url="https://raw.githubusercontent.com/plant-humanities/essays/main/soybean/manchuriamap.geojson"
        show-labels
        show-titles
        stroke-width="0">
