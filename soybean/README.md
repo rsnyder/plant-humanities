@@ -26,8 +26,8 @@ Over the past three decades, soybean growers in parts of South America have deve
 ## Humble Origins
 Wild soybeans, *Glycine soja*, were originally found in a geographical range that “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”[^7] *Glycine soja* is thought to have been “naturally distributed … as early as 9,000 years ago.”[^8] For its first couple thousand years of <span eid="Q11395">domestication</span>, however, soy, like wheat at the time, was not considered a prized food for human consumption due to its difficulty to digest without being refined and cooked.[^9]
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/e/ed/John-Tallis-1851-Tibet-Mongolia-and-Manchuria-NE.jpg"
 	label="Map of Machuria"
+	url="https://upload.wikimedia.org/wikipedia/commons/e/ed/John-Tallis-1851-Tibet-Mongolia-and-Manchuria-NE.jpg"
 	prefer-label
 	description="The staff of John Tallis: The Illustrations by H. Winkles & Engraved by G. Greatbach. The Map Drawn & Engraved by J. Rapkin. Derivative work: Vmenkov, Public domain, via Wikimedia Commons"
 	fit="contain">
