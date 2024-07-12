@@ -7,8 +7,6 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
        layout="vertical">
 
-.ve-annotate
-
 Soy is everywhere. It can be found on the coating of fruit in the grocery store, in candy bars, and it comprises most of the vegetable oil we consume. Some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Soybean_Oil%2C_Meal_and_Beans_%2810059732523%29.jpg"
        title="Soybean Oil, Meal, and Beans"
