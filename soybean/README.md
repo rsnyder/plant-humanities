@@ -9,7 +9,6 @@
 
 .ve-annotate
 
-## Introduction
 Soy is everywhere. It can be found on the coating of fruit in the grocery store, in candy bars, and it comprises most of the vegetable oil we consume. Some experts claim Americans consume almost 40 pounds of soybean oil each year.[^1] Despite its prominence in human food, the soybean is the most common item on the menu for farmed animals, who eat over 90 percent of what is grown today.[^2] In 2021, six percent of the earth’s surface was covered with soybeans.[^3]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Soybean_Oil%2C_Meal_and_Beans_%2810059732523%29.jpg"
        title="Soybean Oil, Meal, and Beans"
@@ -26,10 +25,9 @@ Over the past three decades, soybean growers in parts of South America have deve
 ## Humble Origins
 Wild soybeans, *Glycine soja*, were originally found in a geographical range that “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”[^7] *Glycine soja* is thought to have been “naturally distributed … as early as 9,000 years ago.”[^8] For its first couple thousand years of <span eid="Q11395">domestication</span>, however, soy, like wheat at the time, was not considered a prized food for human consumption due to its difficulty to digest without being refined and cooked.[^9]
 <param ve-image
-	label="Map of Machuria"
-	url="https://upload.wikimedia.org/wikipedia/commons/e/ed/John-Tallis-1851-Tibet-Mongolia-and-Manchuria-NE.jpg"
-	prefer-label
-	description="The staff of John Tallis: The Illustrations by H. Winkles & Engraved by G. Greatbach. The Map Drawn & Engraved by J. Rapkin. Derivative work: Vmenkov, Public domain, via Wikimedia Commons"
+	title="Map of Machuria"
+	url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Map_of_Manchuria.png"
+	description="Argenciy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 	fit="contain">
 {paragraph 3}
 
