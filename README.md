@@ -28,13 +28,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
 
-## The Breadfruit's Reinvention: Pacific to Caribbean
-[The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
-
-- Elaine Savory
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
-
 ## Opium Poppy: A Cursed Beauty
 [Opium Poppy: A Cursed Beauty](poppy)
 
@@ -232,6 +225,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Kristan M. Hanson
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Sunflower_thumbnail.jpg)
+
+## Soybean: The Versatile Miracle Crop
+[Soybean: The Versatile Miracle Crop](soybean)
+
+- Nina Elkadi
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
 
 ## Quinoa: From Indigenous Crop to International Superfood
 [Quinoa: From Indigenous Crop to International Superfood](quinoa)
