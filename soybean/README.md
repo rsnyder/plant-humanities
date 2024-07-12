@@ -31,7 +31,7 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
 	fit="contain">
 {paragraph 3}
 
-Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a <span eid="Q41760">fermented</span> soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the Fan Shengzhi shu, a <span eid="Q7209">Han dynasty</span> agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and <span eid="Q4886">cultivate</span> soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
+Soy’s reputation as a difficult-to-digest food began to change in the third century BCE, when a <span eid="Q41760">fermented</span> soy product known as shi grew in popularity in China.[^10] Not long after, soy appears in the *Fan Shengzhi shu*, a <span eid="Q7209">Han dynasty</span> agricultural text from the first century BCE.[^11] It provides detailed instructions on how to plant and <span eid="Q4886">cultivate</span> soybeans (primarily, still, for animal feed) and even estimates what yields would be.[^12]
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chinese_Materia_Dietetica%2C_Ming%3B_Fermented_sauce_%28jiang%29_Wellcome_L0039386.jpg" 
 	title="Chinese Materia Dietetica, Ming: Fermented sauce (jiang)"
