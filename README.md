@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Soybean: The Versatile Miracle Crop
+[Soybean: The Versatile Miracle Crop](soybean)
+
+- Nina Elkadi
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
+
 ## The Breadfruit's Reinvention: Pacific to Caribbean
 [The Breadfruit's Reinvention: Pacific to Caribbean](breadfruit)
 
