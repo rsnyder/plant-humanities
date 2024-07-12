@@ -28,6 +28,7 @@ Wild soybeans, *Glycine soja*, were originally found in a geographical range tha
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/e/ed/John-Tallis-1851-Tibet-Mongolia-and-Manchuria-NE.jpg"
 	title="Map of Machuria"
+	prefer-title
 	description="The staff of John Tallis: The Illustrations by H. Winkles & Engraved by G. Greatbach. The Map Drawn & Engraved by J. Rapkin. Derivative work: Vmenkov, Public domain, via Wikimedia Commons"
 	fit="contain">
 {paragraph 3}
