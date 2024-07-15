@@ -232,6 +232,6 @@ src="https://data.worldbank.org/share/widget?indicators=AG.LND.AGRI.K2&locations
 [^67]: “In Lula’s First Six Months, Brazil Amazon Deforestation Dropped 34%, Reversing Trend under Bolsonaro,” AP News, July 6, 2023. https://apnews.com/article/brazil-amazon-deforestation-lula-climate-change-2fe225f71a8f484e8d365ea641acd65e
 [^68]: Patel, Stuffed and Starved, 190; “Even with signs of a drop in 2023, deforestation remains high in the Amazon; situation is critical in the Cerrado,” World Wildlife Fund, May 5, 2023. https://www.wwf.org.br/?85601/Even-with-signs-of-a-drop-in-2023-deforestation-remains-high-in-the-Amazon-situation-is-critical-in-the-Cerrado
 [^69]: Andrew Ofstehage, “Transmission of the Brazil Model of Industrial Soybean Production: A Comparative Study of Two Migrant Farming Communities in the Brazilian Cerrado,” in In Defense of Farmers: The Future of Agriculture in the Shadow of Corporate Power (Lincoln: University of Nebraska Press, 2019).
-[^70]: “Can We Feed the World and Ensure No One Goes Hungry? | UN News,” October 3, 2019. https://news.un.org/en/story/2019/10/1048452
+[^70]: “Can We Feed the World and Ensure No One Goes Hungry? \| UN News,” October 3, 2019. https://news.un.org/en/story/2019/10/1048452
 [^71]: Thumbnail photgraph: Hansen, David L., 1952-. 1992-09-18."Soybean." University of Minnesota, Minnesota Agricultural Experiment Station., Accessed July 11, 2024. https://umedia.lib.umn.edu/item/p16022coll169:2054
 
