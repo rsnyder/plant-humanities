@@ -28,6 +28,23 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
 
+## Okra: An Enduring Kitchen Staple
+[Okra: An Enduring Kitchen Staple](okra)
+
+- Allison Caban
+- Malek Charchour
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
+
+## Indigo: Layers of Paint, History, and Art
+[Indigo: Layers of Paint, History, and Art](indigo)
+
+- Jordan Noelle Smith
+- Gianna Welty
+- Hayley Blair
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/indigo.jpg)
+
 ## Opium Poppy: A Cursed Beauty
 [Opium Poppy: A Cursed Beauty](poppy)
 
