@@ -43,7 +43,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Gianna Welty
 - Hayley Blair
 
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/indigo.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
 
 ## Opium Poppy: A Cursed Beauty
 [Opium Poppy: A Cursed Beauty](poppy)
