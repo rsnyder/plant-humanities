@@ -21,29 +21,33 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Indigo: Layers of Paint, History, and Art
+[Indigo: Layers of Paint, History, and Art](indigo)
+
+- Jordan Noelle Smith, Gianna Welty, and Hayley Blair
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
+
+## Okra: An Enduring Kitchen Staple
+[Okra: An Enduring Kitchen Staple](okra)
+
+- Allison Caban and Malek Charchour
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
+
+## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
+[Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
+
+- MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pecan.jpg)
+
 ## Soybean: The Versatile Miracle Crop
 [Soybean: The Versatile Miracle Crop](soybean)
 
 - Nina Elkadi
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
-
-## Okra: An Enduring Kitchen Staple
-[Okra: An Enduring Kitchen Staple](okra)
-
-- Allison Caban
-- Malek Charchour
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
-
-## Indigo: Layers of Paint, History, and Art
-[Indigo: Layers of Paint, History, and Art](indigo)
-
-- Jordan Noelle Smith
-- Gianna Welty
-- Hayley Blair
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
 
 ## Opium Poppy: A Cursed Beauty
 [Opium Poppy: A Cursed Beauty](poppy)
