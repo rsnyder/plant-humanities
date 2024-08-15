@@ -181,7 +181,7 @@ Indigo requires attentive care to create a successful dye, and objects coated in
 # References
 
 [^1]: Abbie Vandivere, Jorgen Wadum, and Emilien Leonhardt, "The Girl in the Spotlight: Vermeer at Work, His Materials and Techniques in Girl with a Pearl Earring," _Heritage Science_ 8, no. 1 (2020): 5.
-[^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2.
+[^2]: "Indigofera L.," Plants of the World Online, Royal Botanical Gardens Kew, accessed April 29, 2023, <https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001793-2>.
 [^3]: Suryatapa Jha, "Plant of the Month: Indigo," _JSTOR Daily_, JSTOR, June 22, 2023, <https://daily.jstor.org/plant-of-the-month-indigo/>.
 [^4]: Jha.
 [^5]: "Indigo suffruticosa," _Plants of the World Online_, Royal Botanical Gardens Kew, accessed April 29, 2023, <https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:500063-1>.
