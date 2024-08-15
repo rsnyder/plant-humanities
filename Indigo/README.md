@@ -23,7 +23,7 @@ More than 750 species belong to the _Indigofera_ L. genus, and its native range 
        description="from the Nikolaus Joseph Freiherr von Jacquin's Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones, Vol. iii (1797-1804)."
        license="Public domain"
        fit="contain"
-			 caption="Early Modern Indigofera Suffruticosa"
+			 caption="Indigofera suffruticosa, Nikolaus Joseph Freiherr von Jacquin, _Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones_, Vol. iii (1797-1804)"
        url="https://www.biodiversitylibrary.org/pageImage/272700">
 
 ### Ancient and Indigenous Uses of Indigo
