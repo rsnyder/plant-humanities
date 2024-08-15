@@ -14,7 +14,8 @@ Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">b
        label="Vermeer's Girl With a Pearl Earring"
        description="Johannes Vermeer, 1665."
        license="Public domain"
-       fit=contain>
+       fit="contain"
+			 caption="Johannes Vermeer, Girl with a Pearl Earring, 1665">
 
 More than 750 species belong to the _Indigofera_ L. genus, and its native range spans Africa, Asia, the Southwest Pacific, the central and southern United States, and the tropics.[^2] The genus belongs to the bean family (Fabaceae), and, as a legume, indigo "can fix nitrogen in the soil, and therefore, it's used as a rotation crop in agriculture to improve soil quality."[^3] Perhaps the most well-known of its species is _Indigofera tinctoria_, known as "true indigo," which is the dominant species in the Indian subcontinent.[^4] Another well-known indigo species, _Indigofera suffruticosa_, is dominant in Central and South America.[^5] While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive <span data-mouseover-image-zoomto="337,271,153,161">round leaves</span>. Through a process of <span eid="Q41760">fermentation</span>, the leaves are "soaked in water and churned until they release a navy blue froth," which is then filtered for impurities and turned into a powder or paste.[^6] In most cases, the powder or paste is used to create pigment for paint and a dye for clothing and textiles.
 <param ve-image
