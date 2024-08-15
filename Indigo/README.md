@@ -20,10 +20,10 @@ Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">b
 More than 750 species belong to the _Indigofera_ L. genus, and its native range spans Africa, Asia, the Southwest Pacific, the central and southern United States, and the tropics.[^2] The genus belongs to the bean family (Fabaceae), and, as a legume, indigo "can fix nitrogen in the soil, and therefore, it's used as a rotation crop in agriculture to improve soil quality."[^3] Perhaps the most well-known of its species is _Indigofera tinctoria_, known as "true indigo," which is the dominant species in the Indian subcontinent.[^4] Another well-known indigo species, _Indigofera suffruticosa_, is dominant in Central and South America.[^5] While many indigo plants produce beautiful flowers of blue or pink, its dye comes from its distinctive <span data-mouseover-image-zoomto="337,271,153,161">round leaves</span>. Through a process of <span eid="Q41760">fermentation</span>, the leaves are "soaked in water and churned until they release a navy blue froth," which is then filtered for impurities and turned into a powder or paste.[^6] In most cases, the powder or paste is used to create pigment for paint and a dye for clothing and textiles.
 <param ve-image
        label="Early Modern Indigofera Suffruticosa"
-       description="from the Nikolaus Joseph Freiherr von Jacquin's Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones, Vol. iii (1797-1804)."
+       description="from the Nikolaus Joseph Freiherr von Jacquin's Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones, Vol. III (1797-1804)."
        license="Public domain"
        fit="contain"
-			 caption="Indigofera suffruticosa, Nikolaus Joseph Freiherr von Jacquin, _Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones_, Vol. iii (1797-1804)"
+			 caption="Early modern Indigofera suffruticosa, Nikolaus Joseph Freiherr von Jacquin, _Plantarum Rariorum Horti Caesarei Schoenbrunnensis Descriptiones et Icones_, Vol. III (1797-1804)"
        url="https://www.biodiversitylibrary.org/pageImage/272700">
 
 ### Ancient and Indigenous Uses of Indigo
@@ -31,7 +31,9 @@ The earliest documented use of indigo can be found from 4000 B.C.E., in what is 
 <param ve-image
        label="Map of the Indus Valley, c. 2600–1900 BCE"
        license="Public domain"
-       contain=fit  url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
+       fit="contain" 
+			 caption="Map of the Indus Valley, c. 2600–1900 BCE"
+			 url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
 
 ### Beautiful but Banned
 Though indigo had a rich history in the Indus Valley, its initial reception in Europe in the sixteenth century was mixed. Some were astonished by the dyeing power of this new plant and were eager to adopt it for profit or personal use. Others had invested all their capital in the <span eid="Q212547">woad</span> plant, which had been commonly used to make blue dye since before the Romans conquered Britain. Although it was not as effective as indigo at creating vivid blues, woad had brought middle-class merchants great wealth that they parlayed into substantial influence by sponsoring the creation of churches, towns, and universities. After indigo arrived, suppliers of woad, heavily invested in the plant, fought their potential obsolescence to keep their profits secure. In 1577, indigo was banned in Germany, where it was known colloquially as the "devil's dye."[^9] In 1609, France enacted a death penalty law for using indigo. England declared indigo a poisonous substance and banned it until 1660. Most dyers throughout Europe, however, ignored anti-indigo laws and mixed indigo with woad to produce vats of stronger dye.[^10] <span eid="Q83164">The East India Company (EIC)</span>, founded in 1600, happily supplied the illegal plant to dyers from India.[^11]​​ France was the first to change its laws in 1737, making it the only legal source of indigo. As a result, France had a head start in the competition for indigo profits that would continue over the next several hundred years.[^12]
