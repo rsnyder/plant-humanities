@@ -8,6 +8,7 @@
        layout="vertical">
        
 ### Indigo: Fading into the Background
+
 Upon first glance, the <span data-mouseover-image-zoomto="2301,3670,1536,1242">background</span> of <span eid="Q41264">Johannes Vermeer's</span> _Girl with a Pearl Earring_ (c. 1665) appears black, especially when viewed against the light blue of the girl's turban. Thanks to the passage of four centuries, the original indigo pigment used to paint the background has faded, rendering it hardly noticeable to a modern audience primarily interested in the subject's identity. The indigo pigment is not the only aspect of the painting that has faded as the result of time: the often violent and exploitative context in which indigo was obtained and used during the colonial period has been largely overlooked for a dye whose widespread popularity has endured for millennia. The pigment Vermeer used was exported from the Americas to the Netherlands and therefore was most likely produced using enslaved labor.[^1] This is only one example of the many links between indigo and colonialism that have stained indigo's history with patterns of exploitation. At the same time, paying attention to all layers of indigo’s legacy reveals overlooked art forms that reach beyond and add nuance to indigo's violent past.
 <param ve-image
        src="wc:Girl_with_a_Pearl_Earring.jpg">
@@ -20,12 +21,14 @@ More than 750 species belong to the _Indigofera_ L. genus, and its native range 
        url="https://www.biodiversitylibrary.org/pageImage/272700">
 
 ### Ancient and Indigenous Uses of Indigo
+
 The earliest documented use of indigo can be found from 4000 B.C.E., in what is now Peru.[^7] Throughout the Americas in ancient and premodern times, _Indigofera suffruticosa_ was used to make dyes for textiles, body paint, sculptures, pottery, and murals. A millennium later, around 3000 B.C.E., indigo from _Indigofera tinctoria_ was cultivated in the <span eid="Q42534">Indus Valley</span>. This is the location from which indigo entered the European market, and it became known throughout the Roman Empire as _indicium_.[^8] As a consequence of both trade and Indigenous cultivation, indigo was also used as a dye in the ancient regions and civilizations of West Africa, East Asia, and <span eid="Q11767">Mesopotamia</span>.
 <param ve-image
        label="Map of the Indus Valley, c. 2600–1900 BCE"
        url="wc:Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png">
 
 ### Beautiful but Banned
+
 Though indigo had a rich history in the Indus Valley, its initial reception in Europe in the sixteenth century was mixed. Some were astonished by the dyeing power of this new plant and were eager to adopt it for profit or personal use. Others had invested all their capital in the <span eid="Q212547">woad</span> plant, which had been commonly used to make blue dye since before the Romans conquered Britain. Although it was not as effective as indigo at creating vivid blues, woad had brought middle-class merchants great wealth that they parlayed into substantial influence by sponsoring the creation of churches, towns, and universities. After indigo arrived, suppliers of woad, heavily invested in the plant, fought their potential obsolescence to keep their profits secure. In 1577, indigo was banned in Germany, where it was known colloquially as the "devil's dye."[^9] In 1609, France enacted a death penalty law for using indigo. England declared indigo a poisonous substance and banned it until 1660. Most dyers throughout Europe, however, ignored anti-indigo laws and mixed indigo with woad to produce vats of stronger dye.[^10] <span eid="Q83164">The East India Company (EIC)</span>, founded in 1600, happily supplied the illegal plant to dyers from India.[^11]​​ France was the first to change its laws in 1737, making it the only legal source of indigo. As a result, France had a head start in the competition for indigo profits that would continue over the next several hundred years.[^12]
 <param ve-image
        label="Napolean's military uniforms, depicted on the right in this political cartoon, were dyed with indigo." 
@@ -33,6 +36,7 @@ Though indigo had a rich history in the Indus Valley, its initial reception in E
        url="wc:Caricature_gillray_plumpudding.jpg">
 
 ### Exploitation in the Caribbean
+
 In the race for profit, European countries found that they could plant indigo cheaply in the Caribbean. Caribbean indigo production began in the seventeenth century, born out of economic competition between the Spanish, French, and British, as well as the necessity for indigo to be grown in a tropical climate. The first European indigo plantations in the Caribbean emerged in the 1630s. Jamaica, Martinique, and Haiti became prominent indigo producers, with Haiti producing the most indigo throughout the remainder of the seventeenth century and into the early eighteenth century.[^13] By 1790, the year before the onset of the <span eid="Q689128">Haitian Revolution</span>, the island housed 3,160 indigo plantations.[^14]
 <param ve-map center="17.620068, -71.562101" zoom="5" Title="The Caribbean" prefer-geojson>
 <param ve-map-marker
@@ -81,6 +85,7 @@ While studying Pinckney's family records, historian Andrea Feeser discovered tha
        circle="true">
        
 ### Imperialism in India and the Indigo Revolt
+
 Decades later in 1860, Plowden Weston, Lieutenant Governor of South Carolina, stated that of all the state's youths, "not one… remembers the cultivation of indigo."[^27] Indeed, following the American Revolution in 1776, England turned to India for its indigo supply due to political tensions with the newly formed United States. Many English planters coerced Bengali farmers into growing indigo through lawful and criminal means. One notorious planter, George Meares, burned to the ground the homes of uncooperative farmers and successfully petitioned the government to forbid the growing of rice on land used for indigo.[^28] In response to this poor treatment, the Indigo Revolt (also known as the "Blue Mutiny") occurred in 1859, and prisons were flooded past capacity with arrested protestors who refused to sow indigo for English planters.[^29] The years leading up to the revolt had seen the beginnings of a national sentiment in Calcutta stemming from "a political struggle against the British mercantile community," as well as "the rise of new social classes in rural Bengal."[^30] With a newly heightened political consciousness, the Bengali farmers' continued taking collective action for more than a year.[^31]
 <param ve-image
        label="Group of Indigo beaters in India, 1877"
@@ -99,6 +104,7 @@ _Nil Darpan_ was the first commercially staged play at Calcutta's National Theat
        src="https://books.google.com/books?id=q5ZeAAAAcAAJ&pg=PP5&output=embed">
 
 ### Gandhi’s Peaceful Revolution and Champaran Satyagraha 
+
 The revolt, the play, and the Indigo Commission resulted in reform for workers in Bengal, but they did not end the injustices in North Bihar. The outbreak of World War I in 1914 fueled new demand for natural indigo, as European supplies of synthetic indigo dye, which manufacturers began using at the turn of the twentieth century, were disrupted. British planters continued to exploit the labor of India's indigo farmers well into the twentieth century. As a result, indigo became an important factor in India's independence movement. After developing his political ideas of peaceful resistance in South Africa, <span eid="Q1001">Mahatma Gandhi</span> returned to India, and his first protests against British rule were about the working conditions of indigo farmers in the Champaran district of Bihar.[^41]
 <param ve-image
        label="Indigo dye factory in Bengal, 1867"
@@ -112,6 +118,7 @@ Due to his reputation as an activist, Gandhi was asked at a Lucknow Congress mee
        url="wc:Stamp_of_India_-_2017_-_Colnect_700591_-_Centenary_of_the_Champaran_Indigo_Farmers_Satyagraha.jpeg">
 
 ### The Impact of Synthetic Dyes
+
 Though the Champaran Satyagraha was an important step both for India's independence and a more ethical indigo farming industry, health and labor issues for factory workers continue today, even though the use of natural indigo dye has declined significantly due to the rise of synthetic indigo dye. The enduring demand for blue dye in the textile industry has placed synthetic indigo production on a large-scale industrial level: every year, about 80,000 tons of chemically produced indigo are created using non-renewable petrochemicals, generating toxic compounds. Moreover, at least four hundred tons of aniline (a toxic carcinogen) are released each year from synthetic indigo production. Two-thirds of this compound are either diffused into surrounding air and wastewater or unintentionally absorbed by plant workers. One-third of the compound remains in the denim that consumers buy and wear. This type of large-scale chemical production creates additional issues with disposal, and, because wastewater treatments are expensive, "many facilities dump the spent dyestuff directly into rivers, contributing to environmental pollution."[^45] While just seventeen production sites are responsible for most of the world's synthetic indigo dye, only one follows any type of wastewater restrictions. Low-income communities are disproportionately affected by the harmful effects of synthetic indigo production. About 87 percent of synthetic production today is "located in low-wage and lower-income countries," which means workers and local inhabitants are exposed to toxic environments, and workers recieve little to no pay.[^46] Although it would be hoped that poor treatment of people in the name of indigo profits would be an issue of the past, unethical practices impacting workers, consumers, and communities remain.
 <param ve-image
        label="Present day denim factory in Bangladesh"
@@ -130,9 +137,10 @@ Today, natural indigo dye is starting to reemerge in South Carolina's Lowcountry
 <param ve-image 
        label="Indigo textile art" 
        description="This image depicts Indigo Hand Block Printing in the Mühlviertel Region, traditional craftsmanship in Upper Austria, inscribed in the Unesco ICH Austrian inventory in 2015."
-       url="wc:Zeugf%C3%A4rberei_Gutau_Blauf%C3%A4rbung_von_Textilien.jpg">
+       url="wc:Zeugfärberei_Gutau_Blaufärbung_von_Textilien.jpg">
 
 ### "Making and Mending" Indigo: The New York Botanical Garden and SOMArts
+
 Two recent creative projects highlight the importance of bringing overlooked perspectives on indigo to the fore. In 2022, the New York Botanical Garden (NYBG) planted a new African American Garden at its Edible Academy. Historically, institutes that have upheld and practiced colonial botany, including the NYBG, have initiated projects like the African American Garden to address past inequities.[^54] This garden was created to highlight plants that were and continue to be integral to the African American experience. Two varieties of indigo, one that comes from Ossabaw Island in Georgia, were included in a plot called "Making & Mending," referring to the usefulness of certain plants, including indigo.[^55] In 2023, the African American Garden re-opened with a focus on "The Caribbean Experience." Indigo was once again included in this iteration, in a plot entitled "Creativity/Creatividad/Kreyativite," highlighting the linguistic diversity of the Caribbean.[^56] When discussing the significance of the exhibition in relation to the legacy of slavery in the Caribbean, poet Dante Micheaux wrote, "The contribution of Caribbean peoples to the survival of the African Diaspora cannot be overstated and is the example of liberty and self-determination — the demonstration that Black people could dismantle the global power of morally bankrupt enslavers and build a nation in the colonized world."[^57] This quote highlights indigo's creative possibilities and its potential for reclamation from the legacy of slavery through artistic pursuits and projects.
 <param ve-image 
        label="NYBG Indigo Specimen" 
@@ -147,6 +155,7 @@ Botanical projects are not the only way to mend and reclaim the history of indig
        url="wc:Tissages_de_coton_indigo_01.jpg">
 
 ### Bringing Beauty to the Forefront
+
 Indigo requires attentive care to create a successful dye, and objects coated in it must meet the air before the remarkable blue slowly begins to appear. Similarly, the history of indigo covers a wide geographic and cultural landscape, forming a sweeping narrative that can only unfold through careful attention. Only once a nuanced and complex story is told can the true beauty of indigo be revealed, one that surpasses the monetary value placed upon indigo by colonialism and reclaims stories of Indigenous tradition and peaceful revolution through art and community. Though the dark history of indigo may have faded into the background over time, just as it did in Vermeer's _Girl with a Pearl Earring_, it still has important lessons to teach us. While its history contains a grim warning of the destructive nature of greed, it also shows the beauty plant life supplies when these resources are used artistically and without exploitation.
 <param ve-image 
        label="Indigo Dye"
