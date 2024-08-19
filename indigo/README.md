@@ -68,7 +68,7 @@ While studying Pinckney's family records, historian Andrea Feeser discovered tha
 <param ve-map
        center="32.818369, -79.929117"
        zoom="11"
-       Title="Charleston, South Carolina"
+       title="Charleston, South Carolina"
        prefer-geojson>
 <param ve-map-layer geojson
        url="SCgeo.json"
@@ -77,7 +77,7 @@ While studying Pinckney's family records, historian Andrea Feeser discovered tha
        stroke-width="0">
 <param ve-map-marker
        coords="32.846074, -79.824693"
-       url="wc:Charles_Pinckney_National_Historic_Site_%28de0d374d-090d-46eb-b83a-a106effa97c4%29.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/11/Charles_Pinckney_National_Historic_Site_%28de0d374d-090d-46eb-b83a-a106effa97c4%29.jpg"
        size="800, 533"
        circle="true">
        
