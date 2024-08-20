@@ -184,6 +184,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/heliconia.jpg)
 
+## Indigo: Layers of Paint, History, and Art
+[Indigo: Layers of Paint, History, and Art](indigo)
+
+- Jordan Noelle Smith, Gianna Welty, and Hayley Blair
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
+
 ## Maize: Sacred Plant, Global Commodity
 [Maize: Sacred Plant, Global Commodity](maize)
 
