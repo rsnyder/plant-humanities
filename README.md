@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Indigo: Layers of Paint, History, and Art
+[Indigo: Layers of Paint, History, and Art](indigo)
+
+- Jordan Noelle Smith, Gianna Welty, and Hayley Blair
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
+
 ## Soybean: The Versatile Miracle Crop
 [Soybean: The Versatile Miracle Crop](soybean)
 
