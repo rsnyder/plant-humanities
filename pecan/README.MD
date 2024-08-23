@@ -103,23 +103,27 @@ According to Katy Morlas Shannon, the author of *Antoine of Oak Alley*, the reco
 
 After Télésphore Roman’s death in 1848, care of Oak Alley fell to his wife, Celina.[^Ref 33] In 1859, determined to save his family’s estate from his mother’s mismanagement, Henry Roman received official ownership.[^Ref 34] Due to the political and financial strain the plantation experienced throughout the <span eid="Q8676">Civil War</span>, Henry was then forced to sell the property to John Armstrong, who foolishly decided to cut down most of Antoine’s pecan trees in an effort to bolster sugarcane production.[^Ref 35] Antoine’s pecan variety managed not only to survive, however, but also to gain national recognition for its superior quality. In 1870, Oak Alley had a new owner, Humbert Bonzano, who was so impressed by the quality of Antoine’s pecan trees that he decided to exhibit the pecans at the [Centennial Exposition](https://en.wikipedia.org/wiki/Centennial_Exposition) in Philadelphia.[^Ref 36] Rewarded with high praise from the judges, Bonzano named the pecan “Centennial.”[^Ref 37] Antoine’s variety remains among those enjoyed today, and his success in grafting the first improved pecan variety formed a foundation for the ongoing cultivation of the commercialized pecan.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibition%2C_Opening_Day.jpg/1600px-Centennial_Exhibition%2C_Opening_Day.jpg?20130904002231"
+	src="wc:Centennial_Exhibition,_Opening_Day.jpg"
+	caption="Centennial Exposition in Philadelphia, 1876"
 	label="Centennial Exposition in Philadelphia, 1876"
 	description="Illustration of Centennial Exposition"
-	license="CC0">
+	license="CC0"
+  fit="contain">
 
 #### Pecan as Commodity
 
 Between the nineteenth and twentieth centuries, pecan grafting allowed the nut to be grown in a more purposeful and organized fashion, transforming it from a “native nut” to a commercialized commodity.[^Ref 38] The knowledge of and ability to graft pecans transformed the nut into a burgeoning business as many landowners realized how easy and profitable it was to grow it.[^Ref 39]
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
+	src="wc:Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
+	caption="US Department of Agriculture's Experimental Pecan Farm in Louisiana, 1917-1964"
 	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
 	description="contained pecan farm in Louisiana, 1917-1964"
 	license="CC0"
 	fit="contain">
 
 The popularization of this lucrative business opportunity is apparent in the many pamphlets and guides the landowners produced. The pamphlets instructed the reader, assumed to be a beginner-grower, on how to grow and tend to a pecan grove and how to ensure successful profit from it, including when and where they should grow their pecan groves, what tools they needed, how to fight off insects and diseases, and more.[^Ref 40]
-<param ve-iframe src="https://archive.org/embed/CAT31332999/page/n5/mode/2up">
+<param ve-iframe 
+			 src="https://archive.org/embed/CAT31332999/page/n5/mode/2up">
 
 By the early 1900s, pecan growers started turning the pecan and pecan groves themselves into commodities. For example, The Oak Ridge Pecan Company sent brochures to landowners asking them to “invest” in Oak Ridge’s pecan groves, describing how theirs would yield the most profit for the investor.[^Ref 41] The brochures followed a similar layout, first describing the pecan and its use, then providing a description of the land being sold and the price per footage. Companies weren’t alone in profiting from the pecan: individual pecan growers were also selling their pecan-growing knowledge and abilities to the public. For instance, grower C.A. Yancey sold the pecan trees he grew and would travel to another grower’s land to plant a tree for them.[^Ref 42] The brochures and catalogs from individual growers are quite interesting, as they contrast their abilities with those of pecan-growing corporations, trying to persuade landowners to invest in their pecan-growing abilities. Typically, testimonials appear at the ends of the brochures, acting as an additional push to convince the reader that certain growers are truly the best.[^Ref 43] These brochures are significant because they mark the beginning of the commercialization of the pecan tree and its fruit, as landowners are either advertising and selling pecan trees and plots or are selling their pecan-growing expertise to other planters.
 <param ve-iframe src="https://archive.org/embed/CAT31290349/page/n4/mode/2up">
