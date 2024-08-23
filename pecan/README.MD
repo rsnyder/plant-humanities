@@ -12,6 +12,7 @@ During the annual Thanksgiving celebration in the United States, friends and fam
 <param ve-image
 	url="https://raw.githubusercontent.com/plant-humanities/media/main/pecan/image0.jpg"
 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
+	caption="Pecans having a disagreement. Courtesy of Allison Caban."
 	description="Pecans discuss how to call themselves"
 	license="Courtesy of Allison Caban">
 
