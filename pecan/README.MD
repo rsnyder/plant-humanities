@@ -12,63 +12,70 @@ During the annual Thanksgiving celebration in the United States, friends and fam
 <param ve-image
 	url="https://raw.githubusercontent.com/plant-humanities/media/main/pecan/image0.jpg"
 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
-	caption="Pecans Having a disagreement. Courtesy of Allison Caban."
+	caption="Pecans having a disagreement. Courtesy of Allison Caban"
 	description="Pecans discuss how to call themselves"
 	license="Courtesy of Allison Caban">
 
 Whether you pronounce it PEE-CAN or puh-KHAN, the pecan has a history richer and more complex than its popularity as the basis for the Thanksgiving pie might suggest. As historian James McWilliams has argued, the pecan (*Carya illinoinensis*) has been an important food source for people in the Americas for thousands of years due to its high nutritional value and abundance. As he also points out, however, there has been a change in our relationship to the pecan in recent years: for most of history, humans relied on wild pecans for food, since wild pecan populations were unusually resilient and capable of maintaining themselves. In other words, humans adapted to the rhythms and life cycles of the pecan. Beginning in the late nineteenth century, however, pecan cultivation ramped up as humans began to seek to control pecan production and increase output. This trend has resulted in numerous potential threats to the pecan, including loss of genetic diversity and potential extinction. Even so, Indigenous botanists like Robin Wall Kimmerer have pointed to a solution. While the future of the pecan may appear grim, the answer to the problem of its possible disappearance lies within the deep history of its relationship with humans. If we could return to a more reciprocal, mutually beneficial relationship with pecans, both we and pecans could flourish.
 <param ve-image
 	src="wc:Pecan_pie_(8030810481).jpg"
-	label="Pecan Pie at Thanksgiving"
 	caption="Pecan Pie at Thanksgiving"
+	label="Pecan Pie at Thanksgiving"
 	description="Pecan Pie"
-	license="CC BY-SA 2.0">
+	license="CC BY-SA 2.0"
+	fit="contain">
 
 #### Native American Discovery and Use
 
 Native Americans were the first to come into contact with the pecan, which they named _pakan_,[^Ref 2] some 30,000–12,000 years ago. The pecan quickly became a popular foodstuff due to its abundance, resilience, and nutritious components, which included significant amounts of protein, fiber, and fat.[^Ref 3] Foraging pecans was easy: gatherers would simply wait for the nuts to fall or throw a stick at the tree to knock them down.[^Ref 4] Simple tools like rocks were used to crack open the shell. The nuts were also boiled and stored for later use as they lasted for long periods of time. The nut could be eaten in many different forms and various ways, including as a powder added to breads, meats, porridges, and even alcoholic beverages.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg/640px-Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg"
+	src="wc:Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_(24455970883).jpg"
 	label="Cracked pecan shells"
+	caption="Cracked pecan shells"
 	description="This photo shows cracked pecan shells, demonstrating Native pecan foraging techniques."
 	license="CC0"
-	region="129,21,432,404">
+	fit="contain">
 
 As an essential component of Native American diets, the pecan greatly influenced migration patterns due to its specific fruiting and [masting](https://en.wikipedia.org/wiki/Mast_seeding) patterns.[^Ref 5] Nations like the Comanche, Caddo, and Kickapoo not only based their migration patterns on the pecan's masting schedule but also may have settled where they did because of their desire to be close to abundant pecan groves.[^Ref 6] They did this despite pecan’s propensity for alternate masting: depending on the year, some groves would fruit while others would not.[^Ref 7] Because of the sheer abundance of nuts that the trees produced, however, Native Americans fit their migration patterns around the pecans’ unusual schedule, as “The pecan trees, to an extent, told them where to go. Indians, fully sold on the nut’s worth, followed.”[^Ref 8] The pecan also became a staple in Native American trade, as different groups would travel with baskets of pecans to exchange with other Native American groups.[^Ref 9] Indeed, there is evidence suggesting that Native Americans helped pecan trees spread and flourish since they carried pecans when they migrated and planted them in new locations. And so, even as pecans helped them, they helped the pecans. As Potawatami botanist Robin Wall Kimmerer has written about this relationship, “Our taking returns benefits to them in the circle of life making life, the chain of reciprocity.”[^Ref 10] While Indigenous relations with pecans and pecan trees were largely reciprocal, this relationship changed with the arrival of new groups to the Americas.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/2/27/Caddoan_Mississippian_culture_map_HRoe_2010.jpg"
+	src="wc:Caddoan_Mississippian_culture_map_HRoe_2010.jpg"
+	caption="Caddoan Mississippian culture map"
 	label="Caddoan Mississippian Culture Map"
 	license="CC0"
-	region="-2,-56,605,579">
+	fit="contain">
  
 #### Early European Encounters
 
 In 1533, Spanish explorers became the first Europeans to encounter the North American pecan. Álvar Núñez Cabeza de Vaca, an explorer who also became a captive of a Native American tribe, recounts being brought to an area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, he reunited with his fellow Spaniards and discovered a stretch of land on which the fruit of the pecan tree was so abundant that they named it “the river of nuts.”[^Ref 11] Interestingly, though, since the pecan bears a striking similarity to the European walnut (they both belong to the family Juglandaceae), Europeans did not at first see a reason to cultivate a nut they thought they already enjoyed back home.[^Ref 12]
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
+	src="wc:Expedition_Cabeza_de_Vaca_Karte.png"
+	caption="Mao of Cabeza de Vaca Expedition"
 	label="Mao of Cabeza de Vaca Expedition"
 	license="CC0"
-	region="424,-301,1577,1509">
+	fit="contain">
 
 Moreover, the European association of the pecan with perceived “uncivilized” Native American ways may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating.[^Ref 13] In fact, it was not until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marest, learned from the Native Americans of Illinois that the pecan was distinct from the walnut. Writing to his Jesuit community in Europe, he noted, “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”[^Ref 14]
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Illinois%2C_historical_and_statistical_-_comprising_the_essential_facts_of_its_planting_and_growth_as_a_province%2C_county%2C_territory%2C_and_state_%281889%29_%2814592501177%29.jpg"
+	src="wc:A_plan_of_the_several_villages_in_the_illinois_country.png"
+	caption="Illustrated Map of Mississippi River and Kaskaskia village" 
 	label="Illustrated Map of Mississippi River and Kaskaskia village"
 	description="This illustrated map shows where Marest was working"
 	license="CC0"
-	region="-600,2,3004,2808">
+	fit="contain">
 
 Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic bias, as well as contentment with the familiar walnut, it does not mean there was no interest at all. André Michaux, a botanist who in 1803 published one of the first books on the trees of North America, describes the favorable qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.”[^Ref 15] Not only does he affirm the nut’s good qualities but also he asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.”[^Ref 16]
 <param ve-image
 	url="https://www.biodiversitylibrary.org/pageImage/52292046"
+	caption="Pecan Illustration from André Michaux's *Trees of North America*"
 	label="Pecan Illustration from Michaux's Work"
 	description="Michaux's book on Trees of North America"
 	license="CC0"
-	region="-827,7,4137,3936">
+	fit="contain">
 
 Instead of suggesting that Europeans follow the custom of foraging and planting nuts from wild pecan varieties, Michaux was proposing the active cultivation of new pecan varieties through the technique of grafting, which involves combining the stem, or scion, of one tree with the base, or rootstock, of another to generate a new tree cultivar.[^Ref 17] Successful grafting of the pecan tree meant the creation of pecan varieties that would grow faster, bear fruit more frequently, and produce larger and more delicious nuts. Michaux’s prophetic opinion reveals how the shift in the European relationship to the pecan was marked by more than the recognition of it being a good source of food; it was marked by an impulse to cultivate and improve the pecan, which Europeans saw as needing perfection.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Cherry_tree_grafting_3.jpg"
+	src="wc:Cherry_tree_grafting_3.jpg"
+	caption="Cleft Grafting with two young trees"
 	label="Tree Grafting"
 	description="Cleft Grafting with two young trees"
 	license="CC0">
@@ -78,18 +85,21 @@ Instead of suggesting that Europeans follow the custom of foraging and planting 
 Grafting the pecan was more difficult than Michaux expected. It wasn’t until 1822 that South Carolinian [Abner Landrum,](https://madpotter-oldcanalpottery.blogspot.com/2010/06/dr-abner-landrum.html) a potter by trade, successfully grafted a pecan tree.[^Ref 18] But despite this, no one built off his achievement until years later when a Louisiana landowner had an idea.[^Ref 19] In St. James Parish, Louisiana, Dr. A. E. Colomb attempted to graft one pecan tree onto another, but he did not succeed.[^Ref 20] Hoping someone else might have better luck, he gave some of his leftover scions to Télésphore J. Roman, the owner of the Oak Alley plantation on the Mississippi in Louisiana.[^Ref 21] It was there, in 1846–1847, that Antoine, an enslaved Creole man and gardener, became the first person to cultivate an improved pecan variety, successfully grafting 16 trees of his new variety.[^Ref 22]
 <param ve-image
 	url="https://cgru.usda.gov/CARYA/PECANS/01/cent-tr02.jpg"
+	caption="A photo of one of Antoine's pecan trees"
 	label="Antoine's Pecan Tree"
 	description="Photo of one of Antoine's trees"
 	license="CC0"
-	region="-102,16,732,697">
+	fit="contain">
 
 According to Katy Morlas Shannon, the author of *Antoine of Oak Alley*, the records from Oak Alley Plantation indicate that Antoine was four years old when he, his mother, father, and brother became property of the Roman family.[^Ref 23] His mother, Zaire, spun cloth, and his father, Zephyr, occupied the most important position on the plantation: overseeing the production of sugar.[^Ref 24] Because “Zephyr held this elite role on the Roman Plantation,”[^Ref 25] Antoine grew up in the house his father built with the complicated knowledge that “he was enslaved, and he was also the son of a great man.”[^Ref 26] Antoine cultivated his father’s spirit of greatness as he matured, learning to cooperate with the land while tending his family’s garden behind their slave quarters.[^Ref 27] We cannot know for sure whether Antoine was intentionally trained for his special skill.[^Ref 28] But we do know that neither Colomb nor Roman—social elites and talented gardeners in their own right—had the capacity to perform Antoine’s craft.[^Ref 29] They relied on his knowledge and labor, and they profited from his success, but they gave him no credit.[^Ref 30] The sales records reveal that the fruit of the new variety was worth $50–$75 a barrel,[^Ref 31] but, as historian Tiya Miles writes, Antoine “received no glory or pay for his botanical feat.”[^Ref 32] Sadly, Antoine found himself in a world in which profit was king and the exploitation of enslaved labor and knowledge was common. The pecan he had learned to cultivate would soon face the consequences of the same capitalistic system.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/c/c1/St._James_Parish_-_Oak_Alley_Plantation_-_20220730134916.jpg"
+	src="wc:St._James_Parish_-_Oak_Alley_Plantation_-_20220730134916.jpg"
 	rotate="180"
+	caption="Living quarters for the enslaved at Oak Alley Plantation"
 	label="Slave Quarters at Oak Alley"
 	description="Photo of the Living Quaters at Oak Alley Plantation"
-	license="CC0">
+	license="CC0"
+	fit="contain">
 
 After Télésphore Roman’s death in 1848, care of Oak Alley fell to his wife, Celina.[^Ref 33] In 1859, determined to save his family’s estate from his mother’s mismanagement, Henry Roman received official ownership.[^Ref 34] Due to the political and financial strain the plantation experienced throughout the <span eid="Q8676">Civil War</span>, Henry was then forced to sell the property to John Armstrong, who foolishly decided to cut down most of Antoine’s pecan trees in an effort to bolster sugarcane production.[^Ref 35] Antoine’s pecan variety managed not only to survive, however, but also to gain national recognition for its superior quality. In 1870, Oak Alley had a new owner, Humbert Bonzano, who was so impressed by the quality of Antoine’s pecan trees that he decided to exhibit the pecans at the [Centennial Exposition](https://en.wikipedia.org/wiki/Centennial_Exposition) in Philadelphia.[^Ref 36] Rewarded with high praise from the judges, Bonzano named the pecan “Centennial.”[^Ref 37] Antoine’s variety remains among those enjoyed today, and his success in grafting the first improved pecan variety formed a foundation for the ongoing cultivation of the commercialized pecan.
 <param ve-image
