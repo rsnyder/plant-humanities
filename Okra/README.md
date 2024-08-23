@@ -8,6 +8,7 @@
 
 # The Fighting Okra
 Delta State University (DSU) in Mississippi has an unusual mascot: the “Fighting Okra.” While the school's mascot was the “Statesman,” students insisted on a mascot that they thought better represented their southern roots and the toughness of their athletes.[^Ref 1] Today, DSU has proudly made the Fighting Okra the face of its campus, with promotional materials proclaiming somewhat tongue in cheek, “Fear of the okra may not be actual fear, but it’s enough to get a crowd going.”[^Ref 2] Although the connection between okra, the South, and toughness may seem obscure,  okra has been a source and symbol of strength for many disenfranchised communities, as well as for members of the African diaspora in the Americas. The vegetable has developed a reputation as a “robust, productive, fast-growing, [and] high yielding [crop]... [one that is] seldom felled by pests and diseases. It adapts to difficult conditions and can thrive where other food plants prove unreliable.”[^Ref 3] More broadly, it has served as an example of and testament to cultural resilience, as Africans forcibly displaced by the slave trade kept growing and cooking okra and preserving, as well as innovating, their culinary traditions. Thus, the crop has evolved into a cultural phenomenon that communities around the world continue to embrace as a treasured reminder of home, heritage, and enduring spirit.
+
 <param ve-iframe
 	label="Delta University's Mascot: The Fighting Okra"
 	description="DSU 'Fighting Okra' Promotional Video"
@@ -16,6 +17,7 @@ Delta State University (DSU) in Mississippi has an unusual mascot: the “Fighti
  
 # Origins
 Okra, from the Nigerian [Igbo](https://en.wikipedia.org/wiki/Igbo_language) okuru (its Latin name is *Abelmoschus esculentus*), is a [cultigen](https://en.wikipedia.org/wiki/Cultigen) or plant species that humans have selected for cultivation with no clearly discernible wild ancestor.[^Ref 4] It hails from the Mallow family, sharing ties with plants such as cotton and members of the hibiscus genus.[^Ref 5] In terms of floral anatomy, okra closely resembles various hibiscus species and in early botanical texts was often mistaken as a type of hibiscus. The plant rises from the ground and branches into green leaves and pale yellow and red flowers, complemented by long green or red fruit pods containing the seeds. Its original zone of cultivation is in the tropics and subtropics of the eastern hemisphere, extending from Southeast Asia to West Africa. In terms of its precise origins, scientists have theorized it to be the descendant of an older species originating in either East Africa or South and Southeast Asia. Author, seed saver, and permaculturist Chris Smith suggests that the Asian origin story is the more likely, as in prehistory, the wild relative of okra, to which its East African origin is often attributed, also grew in adjacent regions of Asia.[^Ref 6] That said, African communities extending from the Horn of Africa to the shores of West Africa have cultivated the plant for thousands of years. From Africa, we can trace okra’s journey from prehistoric cultivation to an international symbol of African diasporic survival and cultural continuity. 
+
 <param ve-image
 	title="Abelmoschus Esculentus"
 	url="https://www.archive.org/download/profdrthomsflora03thom/page/n643_w410"
@@ -26,9 +28,11 @@ Okra, from the Nigerian [Igbo](https://en.wikipedia.org/wiki/Igbo_language) okur
 
 # Crossing Borders
 Okra's historical basis in Africa begins with its first appearance in the written record in [Ibn al-Baytar](https://en.wikipedia.org/wiki/Ibn_al-Baytar)’s 1216 pharmaceutical text _Kitab al-Jamiʿ li-Mufradat al-Adwiya wa-l-Aghdhiya_. Al-Baytar, a physician, botanist, and pharmacist, compiled a catalog of 1,400 plants that included information about their characteristics and their traditional uses. For okra, called bamiya, Al-Baytar referenced the words of his teacher, Abu al-Abbas al-Nabati, who encountered the vegetable on a visit to Egypt in 1216 CE.[^Ref 7] Al-Nabati compared the plant and its “black” and “sweet” fruit to hibiscus trees in [Al-Andalus](https://en.wikipedia.org/wiki/Al-Andalus). This comparison was particularly inspired by the red center that both flowers share, as well as the shape and form of the flowers themselves. The okra description ends with a culinary emphasis, describing how “the people of Egypt'' ate and prepared bamiya with meat and “hot spices.”[^Ref 8] Today, in a comparable dish also called [bamiya](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg/800px-Du_bamia_avec_du_riz_en_f%C3%A9vrier_2022.jpg?20220301125847) in Egypt and Western Asia, or ganaouiya in Northwest Africa,  cooks continue to pair the vegetable with protein in a slow-cooked and spiced stew. 
+
 <param ve-iframe	src="https://archive.org/details/1_20210320_20210320_0857/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%20%D9%84%D9%85%D9%81%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%AF%D9%8A%D8%A9%20%D8%A5%D8%A8%D9%86%20%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1%D8%AC%201/page/n111/mode/1up?view=theater">
 
 Okra’s journey from Africa to the Americas began in the decades following Columbus’s 1492 arrival in the Americas and the subsequent establishment of European colonies. From that period onward, European traders began buying captured Africans and forcibly displacing them to the Americas during the [transatlantic slave trade](https://en.wikipedia.org/wiki/Atlantic_slave_trade), with the first documented transport leaving Africa and arriving in the Americas in 1525.[^Ref 9] The harrowing journey from Africa to the Americas became known as the [Middle Passage](https://en.wikipedia.org/wiki/Middle_Passage), during which okra and other African crops became especially important as sources of sustenance in the Americas-bound ships.[^Ref 10] Chris Smith traces the first accounts of okra’s arrival in South America to the 1600s, a century before coming to North America at the ports of Charleston and New Orleans.[^Ref 11] The details of okra's journey across the Atlantic, however, remain unclear, with some family oral histories suggesting that enslaved individuals hid the seeds of the plant in their hair. Both cookbook author Jessica B. Harris and Chris Smith argue, however, that such transports would have been unlikely; it would have been more likely that enslavers and traders brought okra and other African crops with the people they displaced to ensure that captives would eat and survive the Middle Passage.[^Ref 12] In this way, okra’s journey to the Americas was also one of force that ensured “slave owner control” over the individuals they enslaved.[^Ref 13] Nevertheless, in the Americas, okra and other African crops would become a means of reclamation against that forced displacement through the expression of an African past and identity in gardens and kitchens. 
+
 <param ve-image
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
@@ -81,6 +85,7 @@ src="https://ia902709.us.archive.org/BookReader/BookReaderImages.php?id=mobot317
  
 # Black Culinary Heritage
 Another legacy of okra involves James Hemings, the head chef at Thomas Jefferson’s Monticello plantation. He arrived at the plantation as a boy among the many other enslaved persons living and working in Monticello and proved over time to be adept at culinary work. By 1784, the Jeffersons rewarded his culinary skills by having him accompany them to Europe and attend a Parisian cooking school. Upon the completion of his education, Hemings returned to the United States and became the first person to introduce several French dishes there.[^Ref 27]
+
 <param ve-image
 	label="Jefferson's Monticello Plantation in VA"
 	description="Monticello Where Heming Lived and Worked"
@@ -89,6 +94,7 @@ Another legacy of okra involves James Hemings, the head chef at Thomas Jefferson
 	url="https://upload.wikimedia.org/wikipedia/commons/3/37/Thomas_Jefferson%27s_Monticello.JPG">
 
 Though limited, the recognition Hemings received for his work was uncommon, given that he was an enslaved person. In fact, white enslavers in the South historically tried to deny the contributions African Americans made to their cuisine. For instance, Mary Randolph’s *The Virginia House-wife,* a highly regarded cookbook from 1824, claimed the techniques, practices, and recipes of the enslaved people doing this domestic work without acknowledging their contributions.[^Ref 28] 
+
 <param ve-image
 	label="Mary Randolph, author of the *The Virginia House-Wife*"
 	description="Portrait of Mary Randolph"
@@ -97,6 +103,7 @@ Though limited, the recognition Hemings received for his work was uncommon, give
  	fit="contain">
 
 After the Civil War and the abolition of slavery, African Americans’ deep knowledge of okra began to come into clearer view. In 1918, [George Washington Carver](https://en.wikipedia.org/wiki/George_Washington_Carver), an agricultural scientist born into slavery, contributed his okra soup recipe to the culinary record: he combined sliced okra with tomatoes, rice, and other vegetables. By then, Carver had already made lasting contributions to American agricultural science through his scientific studies of agricultural practices for the cultivation of okra and other community garden crops, as well as ways okra fibers could be used to make rugs and rope.[^Ref 29] Carver’s knowledge of okra is particularly striking in personal writings and correspondence, notably in letters from 1907–1914 between himself and fellow American botanist Louis Herman Pammel.[^Ref 30] In response to one of Pammel’s letters, Carver explained why he would not be able to send him okra right away: “We are just planting Okra down here, so therefore I cannot [give] any of the green plants for at least a month, and up to date I have been unable to find the dry stalks, I will continue to look and if I can get any will forward them to you with pleasure.”[^Ref 31] Carver’s letter highlights his familiarity with the okra cultivation process, emphasizing the plant’s month-long growing cycle, which on average requires 55 days to produce fruit.[^Ref 32]
+
 <param ve-image
 	label="A Portrait of George Washington Carver"
 	description="George Washington Carver"
@@ -105,6 +112,7 @@ After the Civil War and the abolition of slavery, African Americans’ deep know
 	url="https://upload.wikimedia.org/wikipedia/commons/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg">
 
 During okra’s growing cycle, the plant usually rises to a height of four-and-a-half feet and a branch width of two to three feet.[^Ref 33] Along with the short harvest time, okra also prefers a warm climate although, as Smith indicates, it can grow in more northerly regions with careful handling and preparation.[^Ref 34] Okra is also quite resilient against drought, though limited water negatively impacts the fruit’s quality and development.[^Ref 35]
+
 <param ve-image
 	label="Okra growing on Margarita Island"
 	description="Okra in Margarita Island.jpg"
@@ -113,6 +121,7 @@ During okra’s growing cycle, the plant usually rises to a height of four-and-a
 url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Okra_in_Margarita_Island.jpg">
 
 Despite the significant scientific and culinary achievements reached by African Americans such as George Washington Carver, by the 1930s, the entertainment and advertising businesses began using stereotypical images of Black people and their culinary contributions.[^Ref 36] These images downplayed the generations of forced labor and cultural knowledge required to gain the culinary skills and influence they possessed. In the wake of the Civil Rights Movement, however, Black communities began to take matters of representation into their own hands to contest racist characterizations. In the 1960s and 1970s, soul food dishes such as fried okra began to surge in popularity due to a wave of southern African Americans migrating north.[^Ref 37] The longing for old foodways birthed a movement of Black-authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 *Soul-Food Cookbook.* In her cookbook, Rhinehart-Griffin included recipes and ingredients that epitomized home--referring to the South and to Africa--including her take on fried okra.[^Ref 38]
+
 <param ve-image
 	label="A New Orleans Style Fried Okra"
 	description="A Plate of Fried Okra From The Praline Connection Restaurant"
@@ -122,13 +131,15 @@ Despite the significant scientific and culinary achievements reached by African 
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg">
 
 Today, Black chefs are furthering the message of reconnecting with history by expanding the idea of Black food.[^Ref 39] Famed chef Marcus Samuelsson pays tribute to modern Black chefs, creatives, and food historians in his cookbook *The Rise: Soul of American Food*, which includes dishes coming from the large catalog of Black cuisine.[^Ref 40] Noteworthy among them is his version of a southern tradition with the [Leah Chase Gumbo](https://content.ctpublic.org/recipes/leah-chase-gumbo/) recipe, named in honor of American chef Leah Chase, who was known as the Queen of Creole Cuisine.[^Ref 41]  By giving credit to Chase, Samuelsson underscores the complex network and history of diverse, nutritional, and delicious recipes crafted by Black chefs. 
+
 <param ve-image
 	label="Gumbo"
  	License="CC SA 2.0"
-			 fit="contain"
+	fit="contain"
 	url="https://upload.wikimedia.org/wikipedia/commons/a/a6/Gumbo_in_the_Pot.jpg">
 
 Gullah Geechee matriarch Emily Meggett is another Black chef working to reclaim Black culinary traditions through her cookbooks and recipes. In 2022, Meggett published *Gullah Geechee Home Cooking* to honor her ancestry and repair her peoples’ relationship with cooking and harvesting food. To do so, Meggett calls on okra, black-eyed peas, corn, and other foods to illuminate the beauty of traditional African American cuisine and to remind her readers that “before we were American, before we were enslaved, we were a people with an identity and culture that worked in collaboration with the earth, and benefited from its offerings.”[^Ref 42] The reverence for African-American culinary knowledge and history that Meggett displays in her cookbook exemplifies the very attitude the soul food movement hoped to foster: one of respect and admiration for the food that helped them navigate a traumatic past.
+
 <param ve-image
 	label="Protrayal of Enslaved Gullah People"
  	description="Painting of enslaved Gullah people on a South Carolina plantation"
@@ -138,6 +149,7 @@ Gullah Geechee matriarch Emily Meggett is another Black chef working to reclaim 
 
 # The People's Vegetable
 Through farming, cooking, and eating, centuries of African Americans have reinforced the strength and conviction necessary to survive and thrive in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many. And, with the help of its cultivators, it came to thrive. One final example of okra’s persistence is its inclusion in the New York Botanical Garden’s African American Garden, which opened in 2022. One of the garden’s purposes was to underscore that "the African American world of plants, like African life in the North American world, was one of adaptation and transformation."[^Ref 43] This is exactly the case with okra, which traveled with the African diaspora, and helped them survive, as they made their way across the Americas and across time. 
+
 <param ve-image
 	label="Herbarium Specimen of Okra"
 	description="Okra Specimen"
