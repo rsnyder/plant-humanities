@@ -63,8 +63,8 @@ One early reference is by [Willem Piso](https://en.wikipedia.org/wiki/Willem_Pis
 	description="Scene of living quarters on Martinique, by Jules-Leopold Boilly from _Welcome Collections_.  Gardens and homes of an enslaved community in Martinique">
 
 While okra thrived in the gardens of the enslaved, the plant does not seem to have flourished in European kitchens. Early modern botanical writers such as Charles de L’Ecluse connect the crop’s origins to earlier Italian sources referencing Egypt.[^24] In terms of its use, early modern botanists primarily linked the plant to the gardens and the cuisines of enslaved Africans. When they referenced cultural transference, they focused on okra moving between enslaved Africans and Indigenous peoples of the Americas. For example, Piso notes that Indigenous communities in Brazil began cultivating and preparing the crops enslaved Africans brought.[^25] At the same time, there is evidence that Europeans living in plantation societies began to adopt okra into their diets. For example, Sloane hints at the European adoption of okra in seventeenth-century Jamaica. As he writes, the plant was "very carefully planted by _Europeans_, as well as Slaves in their Gardens."[^26] Indeed, the major role that enslaved individuals played in the agricultural and culinary development of the Americas would lead to the proliferation of okra in colonial kitchens, especially in the colonies of the American South and the Caribbean.[^27]
-<param ve-iframe
-	src="https://ia902709.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000820123&itemPath=%2F9%2Fitems%2Fmobot31753000820123&server=ia902709.us.archive.org&page=n568_w517"
+<param ve-image
+	url="https://ia902709.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000820123&itemPath=%2F9%2Fitems%2Fmobot31753000820123&server=ia902709.us.archive.org&page=n568_w517"
 	caption="Detailed image of okra fruit's interior and exterior from Tab.133 Hans Sloane's *A voyage to the islands Madera, Barbados, Nieves, S. Christophers and Jamaica*, from the Biodiversity Heritage Library"
 	description="Image of okra fruit's interior and exterior"
 	license="CC0">
