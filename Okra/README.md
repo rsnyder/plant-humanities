@@ -32,7 +32,7 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
 <param ve-image
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
-	region="-29,-67,858,615"
+	fit="contain"
 	license="PDM 1.0"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/71/Navio_negreiro_-_Rugendas_1830.jpg">
 
