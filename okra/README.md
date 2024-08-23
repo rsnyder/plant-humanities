@@ -115,11 +115,11 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 
 # References
 
-[^Ref 1]: Wayne Cavadi, “Just What Is The Fighting Okra,” *NCAA*, accessed June 18, 2024, <https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra>.
+[^Ref 1]: Wayne Cavadi, “Just What Is The Fighting Okra,” *NCAA*, accessed June 18, 2024, https://www.ncaa.com/news/baseball/article/2017-05-30/dii-baseball-championship-just-what-fighting-okra.
 
-[^Ref 2]: “Traditions,” *About DSU*, accessed June 18, 2024, <https://www.deltastate.edu/about-dsu/>.
+[^Ref 2]: “Traditions,” *About DSU*, accessed June 18, 2024, https://www.deltastate.edu/about-dsu/.
 
-[^Ref 3]: National Research Council. *Lost Crops of Africa: Volume II: Vegetables.* (Washington, DC: The National Academies Press, 2006), <https://doi.org/10.17226/11763>.
+[^Ref 3]: National Research Council. *Lost Crops of Africa: Volume II: Vegetables.* (Washington, DC: The National Academies Press, 2006), https://doi.org/10.17226/11763.
 
 [^Ref 4]: Jessica B. Harris, _High on the Hog: A Culinary Journey from Africa to America_ (New York, Berlin, London, and Sydney: Bloomsbury, 2011), 17.
 
@@ -133,7 +133,7 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 
 [^Ref 9]: Harris, 27.
 
-[^Ref 10]: Trans-Atlantic Slave Trade - Estimates," _Slave Voyages_, accessed May 6, 2024, <https://www.slavevoyages.org/assessment/estimates?selected_tab=timeline>.
+[^Ref 10]: Trans-Atlantic Slave Trade - Estimates," _Slave Voyages_, accessed May 6, 2024, https://www.slavevoyages.org/assessment/estimates?selected_tab=timeline.
 
 [^Ref 11]: Judith A. Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery: Africa's Botanical Legacy in the Atlantic World_ (Berkeley: University of California Press, 2009), 124.
 
@@ -169,7 +169,7 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 
 [^Ref 27]: Harris, 71
 
-[^Ref 28]: David Thorson, Beth Clites Sawyer, and Chad Wollerton, “The Life of James Hemings,” *Jefferson Monticello*, Thomas Jefferson Foundation, November 2022, accessed May 6, 2024, <https://www.monticello.org/jameshemings/.>
+[^Ref 28]: David Thorson, Beth Clites Sawyer, and Chad Wollerton, “The Life of James Hemings,” *Jefferson Monticello*, Thomas Jefferson Foundation, November 2022, accessed May 6, 2024, https://www.monticello.org/jameshemings/.
 
 [^Ref 29]: Mary Randolph, *The Virginia House-wife* (Washington: Printed by Davis and Force, 1824).
 
@@ -179,7 +179,7 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 
 [^Ref 32]: George Washington Carver, *George Washington Carver In His Own Words,* 2nd ed. (Columbia, MO: University of Missouri Press, 2017), 131, 136.
 
-[^Ref 33]: George Washington Carver to Louis Herman Pammel, May 10, 1907, Iowa State University, Special Collections and University Archives, George Washington Carver Collection, accessed May 6, 2024, <https://n2t.net/ark:/87292/w9x648>. 
+[^Ref 33]: George Washington Carver to Louis Herman Pammel, May 10, 1907, Iowa State University, Special Collections and University Archives, George Washington Carver Collection, accessed May 6, 2024, https://n2t.net/ark:/87292/w9x648. 
 
 [^Ref 34]: Smith, 20.
 
@@ -205,4 +205,4 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 
 [^Ref 45]: Meggett, 95.
 
-[^Ref 46]: “African American Garden: Remembrance & Resilience,” New York Botanical Garden, accessed May 6, 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/>.
+[^Ref 46]: “African American Garden: Remembrance & Resilience,” New York Botanical Garden, accessed May 6, 2024, https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/.
