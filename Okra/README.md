@@ -32,7 +32,8 @@ Okra’s journey from Africa to the Americas began in the decades following Colu
 <param ve-image
 	description="A 'faithful photographic reproduction' of a Scene on the Middle Passage"
 	label="Scene from the Middle Passage from *Navio negreiro* by Johann Moritz Rugendas"
-	license="PDM 1.0"
+	license="Public Domain"
+	fit="contain"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/71/Navio_negreiro_-_Rugendas_1830.jpg">
 
 Okra thrived with other African crops in many of the gardens of the enslaved across the Americas.[^Ref 15] While the practice of cultivating gardens was not allowed in all plantations across the Americas, where plots were allotted to enslaved communities, the gardens became sites of physical and spiritual survival. As culinary historian Michael W. Twitty notes, the gardens of the enslaved often became sites of religious significance, featuring such mystical “power objects” as shells, other charms, and conjure bags, resulting in the fusion of African, Indigenous, and European traditions.[^Ref 16] There was also the physical necessity for food that the gardens sustained. Since many plantation owners provided their enslaved workers with little food, the allotted plots became community gardens whose cultivation ensured physical survival in places where “food supplies were chronically scarce.”[^Ref 17] Okra was one of the main crops cultivated, a fact that was referenced by a number of early modern botanists and travelers to the Americas.[^Ref 18]
