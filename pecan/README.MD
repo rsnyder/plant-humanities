@@ -12,14 +12,15 @@ During the annual Thanksgiving celebration in the United States, friends and fam
 <param ve-image
 	url="https://raw.githubusercontent.com/plant-humanities/media/main/pecan/image0.jpg"
 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
-	caption="Pecans having a disagreement. Courtesy of Allison Caban."
+	caption="Pecans Having a disagreement. Courtesy of Allison Caban."
 	description="Pecans discuss how to call themselves"
 	license="Courtesy of Allison Caban">
 
 Whether you pronounce it PEE-CAN or puh-KHAN, the pecan has a history richer and more complex than its popularity as the basis for the Thanksgiving pie might suggest. As historian James McWilliams has argued, the pecan (*Carya illinoinensis*) has been an important food source for people in the Americas for thousands of years due to its high nutritional value and abundance. As he also points out, however, there has been a change in our relationship to the pecan in recent years: for most of history, humans relied on wild pecans for food, since wild pecan populations were unusually resilient and capable of maintaining themselves. In other words, humans adapted to the rhythms and life cycles of the pecan. Beginning in the late nineteenth century, however, pecan cultivation ramped up as humans began to seek to control pecan production and increase output. This trend has resulted in numerous potential threats to the pecan, including loss of genetic diversity and potential extinction. Even so, Indigenous botanists like Robin Wall Kimmerer have pointed to a solution. While the future of the pecan may appear grim, the answer to the problem of its possible disappearance lies within the deep history of its relationship with humans. If we could return to a more reciprocal, mutually beneficial relationship with pecans, both we and pecans could flourish.
 <param ve-image
-	url="https://upload.wikimedia.org/wikipedia/commons/5/50/Pecan_pie_%288030810481%29.jpg"
+	src="wc:Pecan_pie_(8030810481).jpg"
 	label="Pecan Pie at Thanksgiving"
+	caption="Pecan Pie at Thanksgiving"
 	description="Pecan Pie"
 	license="CC BY-SA 2.0">
 
