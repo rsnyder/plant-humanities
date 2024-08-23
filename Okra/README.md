@@ -94,14 +94,14 @@ Though limited, the recognition Hemings received for his work was uncommon, give
 	description="Portrait of Mary Randolph"
 	license="public domain"
 	url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Mrs._David_Meade_Randolph%2C_head-and-shoulders_portrait%2C_right_profile_LCCN2007677865.jpg"
- 	region="15,69,618,577">
+ 	fit="contain">
 
 After the Civil War and the abolition of slavery, African Americans’ deep knowledge of okra began to come into clearer view. In 1918, [George Washington Carver](https://en.wikipedia.org/wiki/George_Washington_Carver), an agricultural scientist born into slavery, contributed his okra soup recipe to the culinary record: he combined sliced okra with tomatoes, rice, and other vegetables. By then, Carver had already made lasting contributions to American agricultural science through his scientific studies of agricultural practices for the cultivation of okra and other community garden crops,[^Ref 30] as well as ways okra fibers could be used to make rugs and rope.[^Ref 31] Carver’s knowledge of okra is particularly striking in personal writings and correspondence, notably in letters from 1907–1914 between himself and fellow American botanist Louis Herman Pammel.[^Ref 32] In response to one of Pammel’s letters, Carver explained why he would not be able to send him okra right away: “We are just planting Okra down here, so therefore I cannot [give] any of the green plants for at least a month, and up to date I have been unable to find the dry stalks, I will continue to look and if I can get any will forward them to you with pleasure.”[^Ref 33] Carver’s letter highlights his familiarity with the okra cultivation process, emphasizing the plant’s month-long growing cycle, which on average requires 55 days to produce fruit.[^Ref 34]
 <param ve-image
 	label="A Portrait of George Washington Carver"
 	description="George Washington Carver"
  	license="CC0"
-	region="-50,0,741,785"
+	fit="contain"
 	url="https://upload.wikimedia.org/wikipedia/commons/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg">
 
 During okra’s growing cycle, the plant usually rises to a height of four-and-a-half feet and a branch width of two to three feet.[^Ref 35] Along with the short harvest time, okra also prefers a warm climate although, as Smith indicates, it can grow in more northerly regions with careful handling and preparation.[^Ref 36] Okra is also quite resilient against drought, though limited water negatively impacts the fruit’s quality and development.[^Ref 37]
@@ -109,7 +109,7 @@ During okra’s growing cycle, the plant usually rises to a height of four-and-a
 	label="Okra growing on Margarita Island"
 	description="Okra in Margarita Island.jpg"
  	license="CC0"
-	region="-949,431,4747,3427"
+	fit="contain"
 url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Okra_in_Margarita_Island.jpg">
 
 Despite the significant scientific and culinary achievements reached by African Americans such as George Washington Carver, by the 1930s, the entertainment and advertising businesses began using stereotypical images of Black people and their culinary contributions.[^Ref 38] These images downplayed the generations of forced labor and cultural knowledge required to gain the culinary skills and influence they possessed. In the wake of the Civil Rights Movement, however, Black communities began to take matters of representation into their own hands to contest racist characterizations. In the 1960s and 1970s, soul food dishes such as fried okra began to surge in popularity due to a wave of southern African Americans migrating north.[^Ref 39] The longing for old foodways birthed a movement of Black-authored soul food cookbooks like Hattie Rhinehart-Griffin’s 1969 *Soul-Food Cookbook.* In her cookbook, Rhinehart-Griffin included recipes and ingredients that epitomized home--referring to the South and to Africa--including her take on fried okra.[^Ref 40]
@@ -117,7 +117,7 @@ Despite the significant scientific and culinary achievements reached by African 
 	label="A New Orleans Style Fried Okra"
 	description="A Plate of Fried Okra From The Praline Connection Restaurant"
   	license="CC SA 4.0"
-	region="0,-93,630,667"
+	fit="contain"
  	license="public domain"
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Praline_Connection_New_Orleans_Sept_2018_Fried_Okra.jpg">
 
@@ -125,6 +125,7 @@ Today, Black chefs are furthering the message of reconnecting with history by ex
 <param ve-image
 	label="Gumbo"
  	License="CC SA 2.0"
+	fit="contain"
 	url="https://upload.wikimedia.org/wikipedia/commons/a/a6/Gumbo_in_the_Pot.jpg">
 
 Gullah Geechee matriarch Emily Meggett is another Black chef working to reclaim Black culinary traditions through her cookbooks and recipes. In 2022, Meggett published *Gullah Geechee Home Cooking* to honor her ancestry and repair her peoples’ relationship with cooking and harvesting food. To do so, Meggett calls on okra, black-eyed peas, corn, and other foods to illuminate the beauty of traditional African American cuisine and to remind her readers that “before we were American, before we were enslaved, we were a people with an identity and culture that worked in collaboration with the earth, and benefited from its offerings.”[^Ref 44] [^Ref 45] The reverence for African-American culinary knowledge and history that Meggett displays in her cookbook exemplifies the very attitude the soul food movement hoped to foster: one of respect and admiration for the food that helped them navigate a traumatic past.
@@ -133,7 +134,7 @@ Gullah Geechee matriarch Emily Meggett is another Black chef working to reclaim 
  	description="Painting of enslaved Gullah people on a South Carolina plantation"
   	license="http://www.yale.edu/glc/gullah/cont.htm, Public domain, via Wikimedia Commons"
 	url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Gullah_s_carolina_1790.jpg"
-	region="-45,-136,732,684">
+	fit="contain">
 
 # The People's Vegetable
 Through farming, cooking, and eating, centuries of African Americans have reinforced the strength and conviction necessary to survive and thrive in the wake of so much hardship. Okra acts as one of the closest connections to life in Africa, a life that was ripped away from so many. And, with the help of its cultivators, it came to thrive. One final example of okra’s persistence is its inclusion in the New York Botanical Garden’s African American Garden, which opened in 2022. One of the garden’s purposes was to underscore that "the African American world of plants, like African life in the North American world, was one of adaptation and transformation."[^Ref 46] This is exactly the case with okra, which traveled with the African diaspora, and helped them survive, as they made their way across the Americas and across time. 
@@ -141,7 +142,7 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 	label="Herbarium Specimen of Okra"
 	description="Okra Specimen"
  	license="Auckland Museum, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons"
-	region="-70,54,1042,1103"
+	fit="contain"
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Abelmoschus_moschatus_Medik._%28AM_AK28139%29.jpg">
 
 # References
