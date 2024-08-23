@@ -85,7 +85,7 @@ Another legacy of okra involves James Hemings, the head chef at Thomas Jefferson
 	label="Jefferson's Monticello Plantation in VA"
 	description="Monticello Where Heming Lived and Worked"
 	license="Martin Falbisoner, CC SA 3.0"
-	region="109,-49,411,435"
+	fit="contain"
 	url="https://upload.wikimedia.org/wikipedia/commons/3/37/Thomas_Jefferson%27s_Monticello.JPG">
 
 Though limited, the recognition Hemings received for his work was uncommon, given that he was an enslaved person. In fact, white enslavers in the South historically tried to deny the contributions African Americans made to their cuisine. For instance, Mary Randolph’s *The Virginia House-wife,*[^Ref 29] a highly regarded cookbook from 1824, claimed the techniques, practices, and recipes of the enslaved people doing this domestic work without acknowledging their contributions. 
