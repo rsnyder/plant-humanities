@@ -134,19 +134,9 @@ Industrialization of the pecan by way of <span eid="Q220212">monoculture</span> 
 
 Farmers began searching the globe for consumers and tried to enter the European market, but there was no place for the pecan since European farmers produced walnuts, which European consumers preferred. It was not until 2006 that American farmers found a significant new buyer at a trade show: Chinese representatives tasted an American pecan and decided they wanted cultivated pecans. In 2008, because of a global walnut shortage, the Chinese purchased 53 million pounds of pecans.[^54] This new demand for pecans allowed American growers to sell their abundant pecan yield. The largest pecan exports come from farms in <span data-mouseover-map-flyto="31.241, -98.723, 5"> East Texas </span> and <span data-mouseover-map-flyto="32.708, -83.178, 5"> Georgia</span>, from which the pecans are shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China. Today, China is one of America’s top pecan buyers.
 <param ve-map
-	center="22.3526, 114.1603"
+	center="18.48001,197.96856"
  	zoom="2"
   	Title="Pecan Trade Route from US to China"
-   	show-labels>
-<param ve-map
-	center="31.241, -98.723"
- 	zoom="5"
-  	Title="East Texas"
-   	show-labels>
-<param ve-map
-	center="32.708, -83.178"
- 	zoom="5"
-  	Title="Georgia"
    	show-labels>
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/5/51/CPO_China%2C_IMO_9434204_at_the_Botlek%2C_Port_of_Rotterdam%2C_pic1.JPG"
