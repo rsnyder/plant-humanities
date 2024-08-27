@@ -6,7 +6,7 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
        layout="vertical">
 
-#### Pies and Pronunciation  
+# Pies and Pronunciation  
 
 During the annual Thanksgiving celebration in the United States, friends and family around the country gather to enjoy pecan pie, among other delectables. The debate on how to pronounce this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the dessert as puh-KHAN pie, but this is not necessarily true. In fact, one poll found that 45 percent of Southern residents say PEE-CAN pie, as do 70 percent of northerners.[^1] How do you say it? Cast your vote on pronunciation [here](https://www.surveymonkey.com/r/TPDNWFK).
 <param ve-image
@@ -21,7 +21,7 @@ Whether you pronounce it PEE-CAN or puh-KHAN, the pecan has a history richer and
 	src="wc:Pecan_pie_(8030810481).jpg"
 	caption="Pecan Pie at Thanksgiving">
 
-#### Native American Discovery and Use
+# Native American Discovery and Use
 
 Native Americans were the first to come into contact with the pecan, which they named _pakan_, some 30,000–12,000 years ago.[^2] The pecan quickly became a popular foodstuff due to its abundance, resilience, and nutritious components, which included significant amounts of protein, fiber, and fat.[^3] Foraging pecans was easy: gatherers would simply wait for the nuts to fall or throw a stick at the tree to knock them down.[^4] Simple tools like rocks were used to crack open the shell. The nuts were also boiled and stored for later use as they lasted for long periods of time. The nut could be eaten in many different forms and various ways, including as a powder added to breads, meats, porridges, and even alcoholic beverages.
 <param ve-image
@@ -34,7 +34,7 @@ As an essential component of Native American diets, the pecan greatly influenced
 	src="wc:Caddoan_Mississippian_culture_map_HRoe_2010.jpg"
 	caption="Caddoan Mississippian Culture Map">
  
-#### Early European Encounters
+# Early European Encounters
 
 In 1533, Spanish explorers became the first Europeans to encounter the North American pecan. Álvar Núñez Cabeza de Vaca, an explorer who also became a captive of a Native American tribe, recounts being brought to an area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, he reunited with his fellow Spaniards and discovered a stretch of land on which the fruit of the pecan tree was so abundant that they named it “the river of nuts.”[^11] Interestingly, though, since the pecan bears a striking similarity to the European walnut (they both belong to the family Juglandaceae), Europeans did not at first see a reason to cultivate a nut they thought they already enjoyed back home.[^12]
 <param ve-image
@@ -59,7 +59,7 @@ Instead of suggesting that Europeans follow the custom of foraging and planting 
 	src="wc:Cherry_tree_grafting_3.jpg"
 	caption="Tree Grafting">
        
-#### Reclaiming Enslaved Knowledge
+# Reclaiming Enslaved Knowledge
 
 Grafting the pecan was more difficult than Michaux expected. It wasn’t until 1822 that South Carolinian [Abner Landrum,](https://madpotter-oldcanalpottery.blogspot.com/2010/06/dr-abner-landrum.html) a potter by trade, successfully grafted a pecan tree.[^18] But despite this, no one built off his achievement until years later when a Louisiana landowner had an idea.[^19] In St. James Parish, Louisiana, Dr. A. E. Colomb attempted to graft one pecan tree onto another, but he did not succeed.[^20] Hoping someone else might have better luck, he gave some of his leftover scions to Télésphore J. Roman, the owner of the Oak Alley plantation on the Mississippi in Louisiana.[^21] It was there, in 1846–1847, that Antoine, an enslaved Creole man and gardener, became the first person to cultivate an improved pecan variety, successfully grafting 16 trees of his new variety.[^22]
 <param ve-image
@@ -81,7 +81,7 @@ After Télésphore Roman’s death in 1848, care of Oak Alley fell to his wife, 
 	src="wc:Centennial_Exhibition,_Opening_Day.jpg"
 	caption="Centennial Exposition in Philadelphia, 1876">
 
-#### Pecan as Commodity
+# Pecan as Commodity
 
 Between the nineteenth and twentieth centuries, pecan grafting allowed the nut to be grown in a more purposeful and organized fashion, transforming it from a “native nut” to a commercialized commodity.[^38] The knowledge of and ability to graft pecans transformed the nut into a burgeoning business as many landowners realized how easy and profitable it was to grow it.[^39]
 <param ve-image
@@ -96,7 +96,7 @@ By the early 1900s, pecan growers started turning the pecan and pecan groves the
 <param ve-iframe 
 	src="https://archive.org/embed/CAT31290349/page/n4/mode/2up">
 
-#### Industrialization, Overproduction, and Resistance
+# Industrialization, Overproduction, and Resistance
 
 The increased number of pecan orchards cultivating improved varieties and the establishment of the pecan as a money-making venture meant that interest in the pecan extended not only to farmers but also to businessmen.[^44] In San Antonio during the 1920s and '30s, for example, Julius Seligmann’s Southern Pecan Shelling Company became a highly lucrative business, accounting for more than three-quarters of the nation’s unshelled pecan purchases.[^45] Since mechanical advancement did not follow as quickly as pecan growth, Seligmann’s factories relied on laborers to shell the pecans by hand. This dependence on laborers to shell pecans was not a problem for his business until the country was hit by the Great Depression. Seligmann took advantage of his Mexican-American work force, cutting wages by 20 percent and reducing weekly earnings to about $2 per week ($60 today), while netting $500,000[^46] (an estimated $15 million today) for himself.[^47]
 <param ve-image
@@ -125,7 +125,7 @@ The treatment of laborers in pecan factories is not dissimilar to the treatment 
 	license="Public Domain"
   	fit="contain">
 
-#### Monoculture: Trade, Economic Growth, and Decreased Genetic Diversity
+# Monoculture: Trade, Economic Growth, and Decreased Genetic Diversity
 
 Industrialization of the pecan by way of <span eid="Q220212">monoculture</span>  (prioritizing uniform rows, cheap land, and low labor costs) led to an astronomical increase in pecan production. Since pecans were yielding more than Americans could consume, the United States had to figure out what to do with all these nuts. This resulted in the creation of new uses for pecans. From cereals to breads to candies, chefs concocted new ways to incorporate pecans into their desserts and foods. And so the pecan pie emerges as a staple in the American South—especially in New Orleans—during the 1930s, becoming the most popular new use for pecans by the 1950s. As the number of pecans increased over the years, the dessert became a nationwide classic.[^53] Nevertheless, even as creative solutions to pecan overproduction may have facilitated new ways of enjoying the pecan, by the 1990s, U. S. consumers reached their limit for pecan consumption, and cereal brands were switching from pecans as their nut of choice to walnuts, leaving farmers with the same problem: too many nuts.
 <param ve-image
@@ -164,7 +164,7 @@ The overcultivation of the pecan has led to other serious consequences. Because 
 	src="wc:Yellow_Aphids_(3816108670).jpg"
 	caption="Oleander yellow aphids">
 
-#### Wisdom of the Pecan 
+# Wisdom of the Pecan 
 
 Even as pecans have become a global crop and commodity, and an increasingly endangered one, it's important to remember that this was not always the case. While we could tell one story about pecans—a story of recent exploitation and domination—going back to earlier histories of pecan-human interaction reveal other types of relationships. As Kimmerer has written, we need to remember reciprocal relationships between Indigenous peoples and pecans; she argues that returning to those relationships could save both people and pecans from threats of extinction. One sentence sums up Kimmerer’s main point best: “All flourishing is mutual.”[^58] At one level, these words refer to the masting patterns of pecan trees and the hypothesis that mast fruiting helps pecan trees ensure their reproduction by overwhelming the ecosystem with nuts. There are so many nuts produced at the same time that they cannot all be eaten by predators (whether human or nonhuman). At another level, however, the phrase refers to the general principle of acting in concert with other beings to ensure everyone’s survival. As Kimmerer explains, “If one tree fruits, they all fruit— there are no soloists. Not one tree in a grove, but the whole grove; not one grove in the forest, but every grove; across the country and across the state. The trees act not as individuals, but somehow as a collective. Exactly how they do this, we don’t yet know. But what we see is the power of unity. What happens to one happens to us all.”[^59] While Kimmerer is writing about pecans, she is also writing about Indigenous peoples, whom she explicitly calls on to act together to preserve their rights and cultural heritage, including their relationships with plants like the pecan tree, whose reproductive habits they adapted to rather than trying to control. Kimmerer thus asks them, and all her readers, to think not just about our own interests but of everyone’s—to find ways for all to flourish at the same time, together. As is the case with the delicious pecan pie, the sweeter things in life can only exist and be enjoyed when we come together as one. 
 <param ve-image 
