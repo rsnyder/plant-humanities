@@ -39,7 +39,7 @@ Okra thrived with other African crops in many of the gardens of the enslaved acr
 	zoom="3"
 	title="Migration from Africa to the Southern States">
 <param ve-map-layer geojson
-	url="americansouthoverlay.json"
+	url="American_South_Overlay.json"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
