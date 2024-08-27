@@ -157,7 +157,7 @@ Farmers began searching the globe for consumers and tried to enter the European 
 	circle="true">
   <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/a/af/20100329-NRCS-JMV-0003_-_Flickr_-_USDAgov.jpg"
-	coords="31.8402, -83.6224"
+	coords="32.70064,276.55015"
 	circle="true">
  
 Yet American farmers are again in potential trouble, as China is cultivating its own pecan orchards, and Mexico is starting to dominate the global pecan market. Cultivation of the pecan tree in both countries is draining demand for U.S.-grown pecans. Since 2005, Mexico has claimed the top spot globally in exporting pecans, producing 50 percent of the global pecan output; the United States produces 40 percent.[^Ref 55] Mexico’s pecan production is at an all-time high due to the country’s consistently warmer weather and lower labor and land costs compared to the U.S. With extensive acreage available for pecan orchards, Mexico is cultivating the pecan in abundant masses, while American farmers are struggling financially to keep up. 
