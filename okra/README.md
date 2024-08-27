@@ -200,3 +200,4 @@ Through farming, cooking, and eating, centuries of African Americans have reinfo
 [^42]: Emily Meggett, *Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island* (New York: Harry N. Abrams, 2022), 94; Meggett, 95.
 
 [^43]: "African American Garden: Remembrance & Resilience," New York Botanical Garden, accessed May 6, 2024, <https://www.nybg.org/event/african-american-garden/african-american-garden-remembrance-and-resilience/>.
+
