@@ -23,7 +23,7 @@ Whether you pronounce it PEE-CAN or puh-KHAN, the pecan has a history richer and
 
 #### Native American Discovery and Use
 
-Native Americans were the first to come into contact with the pecan, which they named _pakan_,[^2] some 30,000–12,000 years ago. The pecan quickly became a popular foodstuff due to its abundance, resilience, and nutritious components, which included significant amounts of protein, fiber, and fat.[^3] Foraging pecans was easy: gatherers would simply wait for the nuts to fall or throw a stick at the tree to knock them down.[^4] Simple tools like rocks were used to crack open the shell. The nuts were also boiled and stored for later use as they lasted for long periods of time. The nut could be eaten in many different forms and various ways, including as a powder added to breads, meats, porridges, and even alcoholic beverages.
+Native Americans were the first to come into contact with the pecan, which they named _pakan_, some 30,000–12,000 years ago.[^2] The pecan quickly became a popular foodstuff due to its abundance, resilience, and nutritious components, which included significant amounts of protein, fiber, and fat.[^3] Foraging pecans was easy: gatherers would simply wait for the nuts to fall or throw a stick at the tree to knock them down.[^4] Simple tools like rocks were used to crack open the shell. The nuts were also boiled and stored for later use as they lasted for long periods of time. The nut could be eaten in many different forms and various ways, including as a powder added to breads, meats, porridges, and even alcoholic beverages.
 <param ve-image
 	src="wc:Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_(24455970883).jpg"
 	caption="Cracked pecan shells"
@@ -47,7 +47,7 @@ Moreover, the European association of the pecan with perceived “uncivilized”
 	caption="Illustrated Map of Mississippi River and Kaskaskia Village" 
 	description="This illustrated map shows where Marest was working">
 
-Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic bias, as well as contentment with the familiar walnut, it does not mean there was no interest at all. André Michaux, a botanist who in 1803 published one of the first books on the trees of North America, describes the favorable qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.”[^15] Not only does he affirm the nut’s good qualities but also he asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.”[^16]
+Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic bias, as well as contentment with the familiar walnut, it does not mean there was no interest at all. André Michaux, a botanist who in 1803 published one of the first books on the trees of North America, describes the favorable qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.”[^15] Not only does he affirm the nut’s good qualities but also he asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection… and no motive would discourage its propagation.”[^16]
 <param ve-image
 	url="https://www.biodiversitylibrary.org/pageImage/52292046"
 	caption="Pecan Illustration"
