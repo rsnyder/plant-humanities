@@ -164,11 +164,10 @@ url="https://upload.wikimedia.org/wikipedia/commons/5/51/CPO_China%2C_IMO_943420
 Yet American farmers are again in potential trouble, as China is cultivating its own pecan orchards, and Mexico is starting to dominate the global pecan market. Cultivation of the pecan tree in both countries is draining demand for U.S.-grown pecans. Since 2005, Mexico has claimed the top spot globally in exporting pecans, producing 50 percent of the global pecan output; the United States produces 40 percent.[^55] Mexico’s pecan production is at an all-time high due to the country’s consistently warmer weather and lower labor and land costs compared to the U.S. With extensive acreage available for pecan orchards, Mexico is cultivating the pecan in abundant masses, while American farmers are struggling financially to keep up. 
 <param ve-image
 	url="https://raw.githubusercontent.com/plant-humanities/media/main/pecan/Dark_Blue_and_Purple_Simple_Budget_Pie_Chart_Graph.jpg"
-  	caption: "Graph of 2023 pecan exports by country"
+  	caption="Graph of 2023 Pecan Exports by Country. Made by Stefania Rocca"
 	label="Graph of 2023 Pecan Exports by Country. Made by Stefania Rocca"
     	description="This graph shows how the United States and Mexico are in compeition with one another"
-    	license="Made by Stefania Rocca"
-    	fit="contain">
+    	license="Made by Stefania Rocca">
        
 The overcultivation of the pecan has led to other serious consequences. Because of monoculture, diversity among the trees in pecan orchards has decreased, leaving the pecan susceptible to diseases. As chemicals in pesticides and disease control become more potent, pecan trees and pests are becoming more resistant to the chemicals. For example, in Texas, <span eid=Q183350> Oleander (yellow) aphids </span> are infesting and destroying cultivated pecan trees in orchards.[^56] While yellow aphids are not a threat to wild pecan trees because the trees have natural inhabitants like mesh-web weaver spiders that defend the trees by eating the yellow aphids, cultivated trees do not house spiders and other natural defenders due to the pesticides, making the trees more susceptible to yellow aphids.[^57] This dilemma leaves farmers with two choices: buy a more expensive pesticide that the tree or pests have not grown resistant to or watch their trees die. There is also a possibility that one day, pesticides will not work on cultivated pecans. Either way, farmers lose money, and consumers lose their nuts.
 <param ve-image	
