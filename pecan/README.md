@@ -153,7 +153,7 @@ Farmers began searching the globe for consumers and tried to enter the European 
 	circle="true">
  <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/c/cf/20111012-NRCS-JMV-0002_-_Flickr_-_USDAgov.jpg"
-	coords="Q2576428"
+	coords="32.49442,264.1081"
 	circle="true">
   <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/a/af/20100329-NRCS-JMV-0003_-_Flickr_-_USDAgov.jpg"
