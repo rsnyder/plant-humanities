@@ -142,34 +142,22 @@ Industrialization of the pecan by way of <span eid="Q220212">monoculture</span> 
 
 Farmers began searching the globe for consumers and tried to enter the European market, but there was no place for the pecan since European farmers produced walnuts, which European consumers preferred. It was not until 2006 that American farmers found a significant new buyer at a trade show: Chinese representatives tasted an American pecan and decided they wanted cultivated pecans. In 2008, because of a global walnut shortage, the Chinese purchased 53 million pounds of pecans.[^Ref 54] This new demand for pecans allowed American growers to sell their abundant pecan yield. The largest pecan exports come from farms in <span data-mouseover-map-flyto="31.241, -98.723, 5"> East Texas </span> and <span data-mouseover-map-flyto="32.708, -83.178, 5"> Georgia</span>, from which the pecans are shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China. Today, China is one of America’s top pecan buyers.
 <param ve-map
-	center="22.3526, 114.1603"
+	center="-4.89641,207.06468"
  	zoom="2"
   	Title="Pecan Trade Route from US to China"
    	show-labels>
-<param ve-map
-	center="31.241, -98.723"
- 	zoom="5"
-  	Title="East Texas"
-   	show-labels>
-<param ve-map
-	center="32.708, -83.178"
- 	zoom="5"
-  	Title="Georgia"
-   	show-labels>
+
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/5/51/CPO_China%2C_IMO_9434204_at_the_Botlek%2C_Port_of_Rotterdam%2C_pic1.JPG"
 	coords="22.28579, 114.16417"
-	size="512, 328"
 	circle="true">
  <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/c/cf/20111012-NRCS-JMV-0002_-_Flickr_-_USDAgov.jpg"
-	coords="29.018, -98.685"
-	size="512, 328"
+	coords="Q2576428"
 	circle="true">
   <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/a/af/20100329-NRCS-JMV-0003_-_Flickr_-_USDAgov.jpg"
 	coords="31.8402, -83.6224"
-	size="512, 328"
 	circle="true">
  
 Yet American farmers are again in potential trouble, as China is cultivating its own pecan orchards, and Mexico is starting to dominate the global pecan market. Cultivation of the pecan tree in both countries is draining demand for U.S.-grown pecans. Since 2005, Mexico has claimed the top spot globally in exporting pecans, producing 50 percent of the global pecan output; the United States produces 40 percent.[^Ref 55] Mexico’s pecan production is at an all-time high due to the country’s consistently warmer weather and lower labor and land costs compared to the U.S. With extensive acreage available for pecan orchards, Mexico is cultivating the pecan in abundant masses, while American farmers are struggling financially to keep up. 
