@@ -142,23 +142,13 @@ Farmers began searching the globe for consumers and tried to enter the European 
  	zoom="2"
   	Title="Pecan Trade Route from US to China"
    	show-labels>
-<param ve-map
-	center="31.241, -98.723"
- 	zoom="5"
-  	Title="East Texas"
-   	show-labels>
-<param ve-map
-	center="32.708, -83.178"
- 	zoom="5"
-  	Title="Georgia"
-   	show-labels>
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/5/51/CPO_China%2C_IMO_9434204_at_the_Botlek%2C_Port_of_Rotterdam%2C_pic1.JPG"
 	coords="22.28579, 114.16417"
 	circle="true">
  <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/c/cf/20111012-NRCS-JMV-0002_-_Flickr_-_USDAgov.jpg"
-	coords="29.018, -98.685"
+	coords="Q2576428"
 	circle="true">
   <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/a/af/20100329-NRCS-JMV-0003_-_Flickr_-_USDAgov.jpg"
