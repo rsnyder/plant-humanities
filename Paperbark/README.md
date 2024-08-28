@@ -42,18 +42,18 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree".[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems". It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
 <param ve-entity eid="Q494624">
 <param ve-image 
-  url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
-  caption="Lange melaleuca, struck by lightning in 1990" 
-  label="Lange Melaleuca, Struck by Lightning in 1990" 
-  description="Lange Melaleuca, Struck by Lightning"
-  license="Unknown">
+        url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
+        caption="Lange melaleuca, struck by lightning in 1990" 
+        label="Lange Melaleuca, Struck by Lightning in 1990" 
+        description="Lange Melaleuca, Struck by Lightning"
+        license="Unknown">
 <param ve-image 
-  url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
-  caption="Memorial plague at Lange Park"
-  label="Lange Plaque" 
-  description="Memorial Plaque, Lange Park"
-  license="Unknown"
-  fit="contain">
+        url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
+        caption="Memorial plague at Lange Park"
+        label="Lange Plaque" 
+        description="Memorial Plaque, Lange Park"
+        license="Unknown"
+        fit="contain">
 
 # Colonial Discovery 
 The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as "broadleaf", can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of *Melaleucas*, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree". *M. quinquenervia* specimens feature dark, gray-green leaves. The name *quinquenervia* is taken from the Latin words for five (quinque) and veins (nervia), describing the five veins typically found upon the plant’s leaves. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil.
