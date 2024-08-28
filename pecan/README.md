@@ -39,7 +39,7 @@ As an essential component of Native American diets, the pecan greatly influenced
 In 1533, Spanish explorers became the first Europeans to encounter the North American pecan. Álvar Núñez Cabeza de Vaca, an explorer who also became a captive of a Native American tribe, recounts being brought to an area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, he reunited with his fellow Spaniards and discovered a stretch of land on which the fruit of the pecan tree was so abundant that they named it “the river of nuts.”[^11] Interestingly, though, since the pecan bears a striking similarity to the European walnut (they both belong to the family Juglandaceae), Europeans did not at first see a reason to cultivate a nut they thought they already enjoyed back home.[^12]
 <param ve-image
 	src="wc:Expedition_Cabeza_de_Vaca_Karte.png"
-	caption="Mao of Cabeza de Vaca Expedition">
+	caption="Map of Cabeza de Vaca Expedition">
 
 Moreover, the European association of the pecan with perceived “uncivilized” Native American ways may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating.[^13] In fact, it was not until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marest, learned from the Native Americans of Illinois that the pecan was distinct from the walnut. Writing to his Jesuit community in Europe, he noted, “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”[^14]
 <param ve-image
@@ -57,7 +57,7 @@ Even though European acceptance of the pecan as a viable food crop may have been
 Instead of suggesting that Europeans follow the custom of foraging and planting nuts from wild pecan varieties, Michaux was proposing the active cultivation of new pecan varieties through the technique of grafting, which involves combining the stem, or scion, of one tree with the base, or rootstock, of another to generate a new tree cultivar.[^17] Successful grafting of the pecan tree meant the creation of pecan varieties that would grow faster, bear fruit more frequently, and produce larger and more delicious nuts. Michaux’s prophetic opinion reveals how the shift in the European relationship to the pecan was marked by more than the recognition of it being a good source of food; it was marked by an impulse to cultivate and improve the pecan, which Europeans saw as needing perfection.
 <param ve-image
 	src="wc:Cherry_tree_grafting_3.jpg"
-	caption="Tree Grafting">
+	caption="Tree grafting">
        
 # Reclaiming Enslaved Knowledge
 
@@ -70,7 +70,7 @@ Grafting the pecan was more difficult than Michaux expected. It wasn’t until 1
 	license="CC0"
 	fit="contain">
 
-According to Katy Morlas Shannon, the author of *Antoine of Oak Alley*, the records from Oak Alley Plantation indicate that Antoine was four years old when he, his mother, father, and brother became property of the Roman family.[^23] His mother, Zaire, spun cloth, and his father, Zephyr, occupied the most important position on the plantation: overseeing the production of sugar.[^24] Because “Zephyr held this elite role on the Roman Plantation,”[^25] Antoine grew up in the house his father built with the complicated knowledge that “he was enslaved, and he was also the son of a great man.”[^26] Antoine cultivated his father’s spirit of greatness as he matured, learning to cooperate with the land while tending his family’s garden behind their slave quarters.[^27] We cannot know for sure whether Antoine was intentionally trained for his special skill.[^28] But we do know that neither Colomb nor Roman—social elites and talented gardeners in their own right—had the capacity to perform Antoine’s craft.[^29] They relied on his knowledge and labor, and they profited from his success, but they gave him no credit.[^30] The sales records reveal that the fruit of the new variety was worth $50–$75 a barrel,[^31] but, as historian Tiya Miles writes, Antoine “received no glory or pay for his botanical feat.”[^32] Sadly, Antoine found himself in a world in which profit was king and the exploitation of enslaved labor and knowledge was common. The pecan he had learned to cultivate would soon face the consequences of the same capitalistic system.
+According to Katy Morlas Shannon, the author of *Antoine of Oak Alley*, the records from Oak Alley Plantation indicate that Antoine was four years old when he, his mother, father, and brother became property of the Roman family.[^23] His mother, Zaire, spun cloth, and his father, Zephyr, occupied the most important position on the plantation: overseeing the production of sugar.[^24] Because “Zephyr held this elite role on the Roman Plantation,” Antoine grew up in the house his father built with the complicated knowledge that “he was enslaved, and he was also the son of a great man.”[^25] Antoine cultivated his father’s spirit of greatness as he matured, learning to cooperate with the land while tending his family’s garden behind their slave quarters.[^27] We cannot know for sure whether Antoine was intentionally trained for his special skill.[^28] But we do know that neither Colomb nor Roman—social elites and talented gardeners in their own right—had the capacity to perform Antoine’s craft.[^29] They relied on his knowledge and labor, and they profited from his success, but they gave him no credit.[^30] The sales records reveal that the fruit of the new variety was worth $50–$75 a barrel,[^31] but, as historian Tiya Miles writes, Antoine “received no glory or pay for his botanical feat.”[^32] Sadly, Antoine found himself in a world in which profit was king and the exploitation of enslaved labor and knowledge was common. The pecan he had learned to cultivate would soon face the consequences of the same capitalistic system.
 <param ve-image
 	src="wc:St._James_Parish_-_Oak_Alley_Plantation_-_20220730134916.jpg"
 	rotation="180"
@@ -154,7 +154,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/5/51/CPO_China%2C_IMO_943420
 Yet American farmers are again in potential trouble, as China is cultivating its own pecan orchards, and Mexico is starting to dominate the global pecan market. Cultivation of the pecan tree in both countries is draining demand for U.S.-grown pecans. Since 2005, Mexico has claimed the top spot globally in exporting pecans, producing 50 percent of the global pecan output; the United States produces 40 percent.[^55] Mexico’s pecan production is at an all-time high due to the country’s consistently warmer weather and lower labor and land costs compared to the U.S. With extensive acreage available for pecan orchards, Mexico is cultivating the pecan in abundant masses, while American farmers are struggling financially to keep up. 
 <param ve-image
 	url="https://raw.githubusercontent.com/plant-humanities/media/main/pecan/Dark_Blue_and_Purple_Simple_Budget_Pie_Chart_Graph.jpg"
-  	caption="Graph of 2023 Pecan Exports by Country. Made by Stefania Rocca"
+  	caption="Graph of 2023 pecan exports by country. Made by Stefania Rocca"
 	label="Graph of 2023 Pecan Exports by Country. Made by Stefania Rocca"
     	description="This graph shows how the United States and Mexico are in compeition with one another"
     	license="Made by Stefania Rocca">
@@ -220,9 +220,7 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^24]: Shannon, 17-20.
 
-[^25]: Shannon, 21.
-
-[^26]: Shannon, 20, 33.
+[^25]: Shannon, 21, 20, 33.
 
 [^27]: Shannon, 49.
 
