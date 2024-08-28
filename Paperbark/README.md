@@ -39,7 +39,7 @@ A similar tale of afforestation drives further histories of the paperbark and ca
         coords="26.11269252999823,-80.2293067600417"
         circle="true">
 
-The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree".[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems". It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
+The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
 <param ve-entity eid="Q494624">
 <param ve-image 
         url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
@@ -57,19 +57,13 @@ The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and
 
 # Colonial Discovery 
 The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as "broadleaf", can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of *Melaleucas*, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree". *M. quinquenervia* specimens feature dark, gray-green leaves. The name *quinquenervia* is taken from the Latin words for five (quinque) and veins (nervia), describing the five veins typically found upon the plant’s leaves. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil.
-<param ve-entity eid="Q45669">
-<param ve-entity eid="Q165152">
-<param ve-entity eid="Q33788">
-<param ve-entity eid="Q281801" aliases="epithet">
-<param ve-image 
-  src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
-  caption="Paperbark in flower">
-<param ve-image 
-  src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
-  caption="Bark structure">
-<param ve-image 
-src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg" 
-caption="Paperbark Fruit">
+<ve-image>
+  <ul>
+    <li>wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"</li>
+    <li>wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg</li>
+    <li>wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg</li>
+  </ul>
+</ve-image>
 
 The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as "the Pliny of the Indies," Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
 <param ve-entity eid="Q1043">
@@ -131,41 +125,40 @@ Part of what attracted European botanists and explorers to the paperbark was the
 <param ve-entity eid="Q193237">
 <param ve-entity eid="Q60849514" aliases="Niaouli">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
-  caption="Tea tree oil"
-  label="Tea Tree Oil" 
-  description="description needed"
-  license="Unsplash photos are made to be used freely">
+        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
+        caption="Tea tree oil"
+        label="Tea Tree Oil" 
+        description="description needed"
+        license="Unsplash photos are made to be used freely">
 
 For generations, the Indigenous populations of Oceania have used *Melaleuca* bark to build structures and dwellings. Among some groups, dwellings were built entirely by women who cut the bark, erected the structure, and carried the components on their backs when traveling.[^22] Paperbark sheeting was stored when not in use and, unavailable in some areas, sometimes had to be transported over considerable distances.[^23] Bark structures could range from rafts for fishing, an important Indigenous tradition across much of Oceania, open-air huts, as well as more substantive constructions intended as shelters against the wet season's rains. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings.[^24] The story tells of a man and woman out foraging who, when caught by surprise by the fast-approaching rainy season, construct one of the first *Melaleuca* bark shelters. Aside from the bark, *Melaleuca* lumber—hard and fine textured, and naturally resistant to termite attacks— is considered a good building material, though liable to warp and challenging to cut and season.
-<param ve-entity eid="Q28224481">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
-  caption="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland"
-  label="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland" 
-  description="A couple sitting outside their paperbark hut"
-  license="Public Domain">
+        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
+        caption="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland"
+        label="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland" 
+        description="A couple sitting outside their paperbark hut"
+        license="Public Domain">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"
-  caption="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
-  label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
-  description="description needed"
-  license="CC BY 4.0">
+        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"        
+        caption="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
+        label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
+        description="description needed"
+        license="CC BY 4.0">
 <param ve-image 
-  src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
-  caption="Bush Shower of Paperbark strips and timber, 1914">
+        src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
+        caption="Bush Shower of Paperbark strips and timber, 1914">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
-  caption="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
-  label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
-  description="canoe photo"
-  license="public domain">
+        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
+        caption="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
+        label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
+        description="canoe photo"
+        license="public domain">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
-  caption="_Walba_, David Payne"
-  label="_Walba_, David Payne" 
-  description="raft design"
-  license="granted from holder">
+        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
+        caption="_Walba_, David Payne"
+        label="_Walba_, David Payne" 
+        description="raft design"
+        license="granted from holder">
 
 Ethnographic accounts describe countless further uses of Aboriginal Australians using *Melaleuca* bark. It served for bedding, lining earth ovens, wrapping food for cooking and storage, as fuelwood or kindling, and making liquid holding vessels and baskets.[^25] More recently, Euro-Australians have also championed the culinary applications of the paperbark tree in combination with other Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note that food cooked while wrapped in paperbark takes on a smoky flavor and recommend this method for roasting fish, chicken, or vegetables. The plant’s culinary uses extend beyond the *Melaleuca* bark. For example, steeping *Melaleuca* tree blossoms creates a natural sweetener, which has been used for candies.[^26] *M. quinquenervia* is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida.
 <param ve-entity eid="Q13580316" aliases="Euro-Australians">
