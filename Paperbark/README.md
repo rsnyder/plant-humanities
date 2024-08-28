@@ -6,8 +6,7 @@
   banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
   layout="vertical">
   
-### Cultural warning 
-Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
+Cultural warning: Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
 <param ve-image 
   url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
   caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
