@@ -227,7 +227,7 @@ Before the arrival of Europeans in Oceania, Indigenous peoples shaped their land
 # An Advancing Enemy in Florida 
 The global dispersal of the paperbark tree was accompanied by a patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized a sparse few of the multitude of Aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around the Everglades saw potential in the *M. quinquenervia* as a timber species as well as a land management tool; as mentioned previously, they posited that its high water usage and its fast-growing speed would make it ideal for converting the swamp into a dry and "productive" agricultural landscape while eradicating mosquitos and other pests.[^35] The tree’s thick roots were utilized as a natural erosion-prevention infrastructure and were thus employed to stabilize disturbed areas, especially around Lake Okeechobee.[^36] Finally, especially in its early years, the paperbark was appreciated as an ornamental and was planted as such in gardens around south Florida.[^37] Today, scientists recognize another utility for *M. quinquenervia* as a climate recorder. The tree’s leaves can provide proxy data for quantifying past rainfall.[^38] Although limited in its uses when compared to its endemic range, the paperbark entered Florida as an appreciated and valuable addition. This positive image accompanied the tree for much of the twentieth century.
 <param ve-map
-       center="25.78662638413672, -80.68252090059919"
+       center="26.18764,-80.62886,7.71"
        zoom="9"
        Title="Dense areas of _M. quinquenervia_ in south Florida">
 <param ve-map-layer geojson url="EvergladesNew.json">
