@@ -29,7 +29,7 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 <param ve-entity eid="Q96374738" aliases="'champion tree'">
 <param ve-entity eid="Q2384419">
 <param ve-map
- center="0,0"
+ center="13.86516,29.49047,1.45"
  zoom="2"
  Title="Global Spread of M. quinquenervia"
  basemap="Esri_WorldPhysical">
