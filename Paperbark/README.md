@@ -285,10 +285,10 @@ These questions have necessarily faced pushback. In the case of the paperbark, a
 [^10]: Bob French, "Shrine Shades Tree from Foes" Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction' in *South Florida Sun-Sentinel*, April 15 1991. https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html. Accessed Aug. 5 2022.
 [^11]: French, 1994. [see [^9]]
 [^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885
-[^13]: Georg Rumphius, *Herbarium Amboinense* vol. 2. 1741, pp. 72-73.
-[^14]: Peter Carey, *Parrot and Oliver in America*. New York: Knopf, 2010, p. 
+[^13]: Georg Rumphius. Burmannus, Joannes (ed.). *Herbarium Amboinense, plurimas conplectens arbores, frutices, herbas, plantas terrestres & aquaticas, quae in Amboina, et adjacentibus reperiuntur insulis*. Amstelaedami, Apud Fransicum Changuion, Joannem Catuffe, Hermannum Uytwerf, vol. 2 (1741): 72-73. 
+[^14]: Peter Carey, *Parrot and Oliver in America*. New York: Knopf, 2010, 276. 
 [^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4. Madrid, 1797, p. 19.
-[^16]: Stanley Thatcher Blake, "A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)", *Contributions from the Queensland Herbarium*, vol. 1, 1968, pp. 1-114.
+[^16]: Stanley Thatcher Blake, "A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)", *Contributions from the Queensland Herbarium*, vol. 1, 1968, 30.
 [^17]: https://collections.tepapa.govt.nz/topic/576
 [^18]: *Mental States Volume 2: Language and Cognitive Structure*, ed. by Andrea C. Schalley and Drew Khelntzos (2007), pp. 244-6; *Nominal Classification in Aboriginal Australia*, ed. Mark Harvey and Nicholas Reid (1997), p. 132; See also Caroll 1976, p. 95.
 [^19]: J. H. Maiden, *The Forest Flora of New South Wales* vol. 1. Sydney: Government Printer, 1904. 
