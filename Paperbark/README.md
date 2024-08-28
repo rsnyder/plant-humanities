@@ -156,8 +156,8 @@ For generations, the Indigenous populations of Oceania have used *Melaleuca* bar
   description="description needed"
   license="CC BY 4.0">
 <param ve-image 
-src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
-caption="Bush Shower of Paperbark strips and timber, 1914">
+  src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
+  caption="Bush Shower of Paperbark strips and timber, 1914">
 <param ve-image 
   url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
   caption="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
@@ -242,47 +242,39 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/35/Florida_Lac_Okeechobee.
        
 As the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that made the tree initially attractive became those for which it is now most despised. *M. quinquenervia* grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions.[^39] South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of indigenous anthropogenic burning. These traits make *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction.[^40] Its seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres of Floridian land, most of which was comprised of monocultural stands.[^41]
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Starr-031108-0008-Melaleuca_quinquenervia-habit-Alligator_Alley-Florida_%2824580743671%29.jpg"
-       label="_M. quinquenervia_ stand lining I-75 in the Everglades"
-       description="a dense monoculture of paperbark lines I-75, the highway that passes through the Florida Everglades"
-       license="CC BY 3.0">
+       src="wc:Starr_031108-0008_Melaleuca_quinquenervia.jpg"
+       caption="_M. quinquenervia_ stand lining I-75 in the Everglades">
 <param ve-entity eid="Q123452" aliases="endemic zone">
 <param ve-entity eid="Q220212" aliases="monocultural">
 
-###
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of controlling its spread.  Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever-encroaching, anthropomorphized enemy, the tree.  Battle tactics are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42] A 1997 article in *The New York Times* speaks of a valiant "Army of Tree-Hungry Beetles" ready for employment in the battle against the insidious paperbark. The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing "war."[^44]
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Melaleuca_leaf_weevil.jpg"
-       label="_Melaleuca_ Leaf Weevil, _Oxyops vitiosa_"
-       description="Weevil increasingly used for biological control of the paperbark in South Florida"
-       license="Public Domain">
+       src="wc:Melaleuca_leaf_weevil.jpg"
+       caption="_Melaleuca_ Leaf Weevil, _Oxyops vitiosa_">
 <param ve-entity eid="Q116890" aliases="biological control">
 
-###
 It is a small jump from this metaphorical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he "trudged across the bulldozed fields" in south-east Queensland, shaking his head in dismay as he thought back to his "American friends, and how they would love to see a scene like this acted out in Florida." These areas of Australian wetland are fast being developed for human habitation. And even in still preserved wilderness, the tree faces ecological challenges. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple native to the Everglades, (*Annona glabra*). It is difficult not to conceive of this development as an act of botanical revenge.[^45]
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Annona_glabra_01.jpg"
-       label="*Annona glabra*"
-       description="*Annona glabra or Pond Apple, Image by Daniel Di Palma"
-       license="Daniel Di Palma, CC BY-SA 4.0">
+       src="wc:Annona_glabra_01"
+       caption="*Annona glabra* or Pond Apple">
 
-### Conclusion:
+# Conclusion
 Should this framing of conflict and warfare give us pause for thought? The label "invasive", as a scientific term applied to an organism, has its mainstream origins in zoologist Charles Elton’s 1958 work, *The Ecology of Invasions by Animals and Plants*, and caught on broadly only in the 1990s, when publications on "invasives" skyrocketed.[^46] In 1994, Hawai’i’s Senator Daniel Akaka spoke before Congress about the "slow, silent invasion of alien pests'' creeping across United States borders.[^47] By 1999, this concern had gained such traction that an executive order mandated the formation an inter-agency government coalition, the "National Invasive Species Council'', to eradicate botanical threats.[^48] Around the same time, several scholars of landscape design turned a critical eye to the tenor of this discourse and the countervailing enthusiasm for "native plants'', a term that constitutes a "mixture of sound biology, invalid ideas, false extensions, ethical implications and political usage both intended and unanticipated".[^49] In particular, Joachim Wolschke Bulmahn and Gert Gröning have sought to trace this discourse to ideologies of landscape under nazi Germany and American "nativism" in the early twentieth century. How easily, they ask, can the scientific become political? Can these conceptions of landscape feed xenophobia?[^50]
 <param ve-image
-url="https://www.biodiversitylibrary.org/pageImage/16604010"
-label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
-fit="contain">
+  url="https://www.biodiversitylibrary.org/pageImage/16604010"
+  caption="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
+  label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
+  fit="contain">
 <param ve-entity eid="Q42985020">
 <param ve-entity eid="Q1066200" aliases="Charles Elton's"> 
 
-###
 These questions have necessarily faced pushback. In the case of the paperbark, after all, the ecological reality of its dominance in Florida cannot be denied, regardless of the language used to describe its spread. This debate is nevertheless part of the paperbark tree’s history. Its vilification arose at the same moment toward the end of the twentieth century. Just as "invasives" were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the Federal Noxious Weed List, restricting its sale, circulation, and importation throughout the United States.[^51] In the later part of the 1990s, this zeal for prevention morphed into one for eradication, and significant sums of money, from both federal agencies and NGOs, were put towards removing pre-existing stands in Florida. Legislation supported by its invasive status began to imply that nearly anything, including development, was preferable to the presence of the tree.[^52] In the space of a century, *M. quinquenervia* had fallen from a plant of immense possibility to an invasive, "garbage" weed. Nothing in the plant had changed; it continues to live and reproduce as it did at the moment of its first Western description. What did shift, however, was our illusion of control. The tree escaped the settings and roles that Floridian planters had hoped to consign it to, serving as a bitter reminder that human interests are but one force shaping our dynamic, global environment.
 <param ve-knightlab-timeline
-source="1eIQ8ZtzRcfK8AHuPcBqMNI-AQAuLnkoVsjklVtHTR6Y"
-timenav-position="bottom"
-hash-bookmark="false"
-initial-zoom="1"
-height="750">
+  source="1eIQ8ZtzRcfK8AHuPcBqMNI-AQAuLnkoVsjklVtHTR6Y"
+  timenav-position="bottom"
+  hash-bookmark="false"
+  initial-zoom="1"
+  height="750">
 
 ### References
 [^1]: Robert Peckham, "Hygienic Nature: Afforestation and the greening of colonial Hong Kong," *Modern Asian Studies* vol. 83, no. 2, 2015, p. 1194. https://www.jstor.org/stable/24495425
