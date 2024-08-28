@@ -1,27 +1,21 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 <param ve-config
-  title="The Broad-Leaf Paperbark: Friend or Foe?"
-  author="Bethany Kidd and Sierra Roark"
-  banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
-  layout="vertical">
+        title="The Broad-Leaf Paperbark: Friend or Foe?"
+        author="Bethany Kidd and Sierra Roark"
+        banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
+        layout="vertical">
   
 Cultural warning: Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
-<param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
-  caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
-  label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
-  description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
-  license="Unknown">
   
 # Introduction: A Fall from Grace
 Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst "primitive."[^1] The self-identified task of the British colonial government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside.[^2] The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century.[^3] Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors of Hong Kong, such as northeastern Australia, New Caledonia, and the island of New Guinea.[^4] One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and as part of wetland ecosystems.[^5]
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
-  caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
-  label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
-  description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
-  license="Unknown">
+        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
+        caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
+        label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
+        description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
+        license="Unknown">
 
 A similar tale of afforestation drives further histories of the paperbark and can be implicated in its transformation from a treasured specimen tree to pernicious weed. Early twentieth-century developers in South Florida likewise employed the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.[^6] For decades, agriculturalists lauded *M. quinquenervia* as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Local and federal horticultural agencies subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp.[^7] So highly prized was the paperbark for both its utility and ornamental value that early seed importers jostled to be recognized as its first American planters.[^8] A [memorial plaque in Lange Park,](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg) less than ten miles east of the Everglades, boasts that a *Melaleuca* planted there in 1900 by John C. Lange to be the oldest in the region. Towering over 25 meters prior to a lightning strike in 1990, it also came to be the tallest, for which it was awarded listed status as a so-called 'champion tree' by the American Forestry Association of 1981.[^9]
 <param ve-entity eid="Q41806542">
@@ -78,20 +72,20 @@ The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observati
 <param ve-entity eid="Q159766">
 <param ve-entity eid="Q82778">
 <param ve-image 
-src="wc:G.E._Rumphius,_D%27Amboinsche,_frontispiece._Wellcome_L0022386.jpg"
-caption="Georg Eberhard Rumpf, alias 'Rumphius'">
+       src="wc:G.E._Rumphius,_D%27Amboinsche,_frontispiece._Wellcome_L0022386.jpg"
+       caption="Georg Eberhard Rumpf, alias 'Rumphius'">
 
 In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as "Caju-puti", to which he adds the Latin Arbor alba (white tree) and Dutch "Witte Boom." He also provides an additional synonym, "Brant-Boomen" (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, "the bottom of this trunk is always most black, as if it had been burnt,"[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
 <param ve-entity eid="Q34740">
 <param ve-iframe                                               
-src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
-fit="contain">
+       src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
+       fit="contain">
 
 Rumphius’ account of the paperbark’s appearance following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s name, *Melaleuca*, as given to it by Linnaeus, taken from the Greek "mélas" (black) and "leukós" (white). It remains a strong association with the tree for those familiar with it. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) Australian novelist Peter Carey depicts a character, disfigured by burns, whose "pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark."[^14]  
 <param ve-entity eid="Q313254">
 <param ve-image 
-  src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
-  caption="Paperbark after a bushfire">
+       src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
+       caption="Paperbark after a bushfire">
 
 The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called "Botany Bay" on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
 <param ve-entity eid="Q545430">
