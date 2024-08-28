@@ -39,44 +39,38 @@ A similar tale of afforestation drives further histories of the paperbark and ca
         coords="26.11269252999823,-80.2293067600417"
         circle="true">
 
-### 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree".[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems". It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
 <param ve-entity eid="Q494624">
 <param ve-image 
-url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
-label="Lange Melaleuca, Struck by Lightning in 1990" 
-description="Lange Melaleuca, Struck by Lightning"
-license="Unknown">
+  url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
+  caption="Lange melaleuca, struck by lightning in 1990" 
+  label="Lange Melaleuca, Struck by Lightning in 1990" 
+  description="Lange Melaleuca, Struck by Lightning"
+  license="Unknown">
 <param ve-image 
-url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
-label="Lange Plaque" 
-description="Memorial Plaque, Lange Park"
-license="Unknown"
-fit="contain">
+  url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
+  caption="Memorial plague at Lange Park"
+  label="Lange Plaque" 
+  description="Memorial Plaque, Lange Park"
+  license="Unknown"
+  fit="contain">
 
-### Colonial Discovery 
+# Colonial Discovery 
 The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as "broadleaf", can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of *Melaleucas*, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree". *M. quinquenervia* specimens feature dark, gray-green leaves. The name *quinquenervia* is taken from the Latin words for five (quinque) and veins (nervia), describing the five veins typically found upon the plant’s leaves. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil.
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
 <param ve-entity eid="Q33788">
 <param ve-entity eid="Q281801" aliases="epithet">
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/4/45/Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
-label="Paperbark in Flower" 
-description="Paperbark, Photo by John Robert McPherson"
-license="CC BY-SA 4.0">
+  src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
+  caption="Paperbark in flower">
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
-label="Bark structure" 
-description="photo by Doug Beckers"
-license="CC BY-SA 2.0">
+  src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
+  caption="Bark structure">
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/5/57/Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg"
-label="Paperbark Fruit" 
-description="Paperbark fruit, photo by Forest & Kim Starr"
-license="CC BY-SA 3.0">
+src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg" 
+caption="Paperbark Fruit">
 
-###
 The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as "the Pliny of the Indies," Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
 <param ve-entity eid="Q1043">
 <param ve-entity eid="Q61439">
@@ -84,13 +78,9 @@ The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observati
 <param ve-entity eid="Q159766">
 <param ve-entity eid="Q82778">
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/2/2f/G.E._Rumphius%2C_D%27Amboinsche%2C_frontispiece._Wellcome_L0022386.jpg"
-label="Georg Eberhard Rumpf, alias 'Rumphius'" 
-description="Frontispiece Portrait of Rumphius"
-license="Public Domain"
-fit="contain">
+src="wc:G.E._Rumphius,_D%27Amboinsche,_frontispiece._Wellcome_L0022386.jpg"
+caption="Georg Eberhard Rumpf, alias 'Rumphius'">
 
-###
 In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as "Caju-puti", to which he adds the Latin Arbor alba (white tree) and Dutch "Witte Boom." He also provides an additional synonym, "Brant-Boomen" (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, "the bottom of this trunk is always most black, as if it had been burnt,"[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
 <param ve-entity eid="Q34740">
 <param ve-iframe                                               
