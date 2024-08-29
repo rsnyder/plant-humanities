@@ -45,7 +45,7 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
 <param ve-image 
         url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
-        caption="Lange melaleuca, struck by lightning in 1990" 
+        caption="*Melaleuca* tree growing in Lange Park struck by lightning in 1990" 
         label="Lange Melaleuca, Struck by Lightning in 1990" 
         description="Lange Melaleuca, Struck by Lightning"
         license="Unknown">
@@ -67,12 +67,12 @@ The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely r
         caption="Bark structure">
 <param ve-image
         src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg" 
-        caption="Paperbark Fruit">
+        caption="Paperbark fruit">
 
 The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as "the Pliny of the Indies," Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
 <param ve-image 
        src="wc:G.E._Rumphius,_D%27Amboinsche,_frontispiece._Wellcome_L0022386.jpg"
-       caption="Georg Eberhard Rumpf, alias 'Rumphius'">
+       caption="Portrait of Georg Eberhard Rumpf, alias Rumphius, (1627-1702)">
 
 In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as "Caju-puti", to which he adds the Latin Arbor alba (white tree) and Dutch "Witte Boom." He also provides an additional synonym, "Brant-Boomen" (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, "the bottom of this trunk is always most black, as if it had been burnt,"[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
 <param ve-iframe                                               
@@ -87,21 +87,21 @@ Rumphius’ account of the paperbark’s appearance following a bushfire, its wh
 The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called "Botany Bay" on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
 <param ve-image
 	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
-	caption="Banks and Solander Herbarium Specimen"
+	caption="Banks and Solander herbarium specimen"
 	label="Banks and Solander Herbarium Specimen"
 	fit="contain">
 <param ve-image
 	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Banks%20Florilegium.jpg?raw=true"
-	caption="Banks' Floreilegium"
+	caption="Banks' *Floreilegium*"
 	label="Banks' Florilegium">
 <param ve-image
 	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
-	caption="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	caption="Description of *Metrosideros quinquenervia* in Cavanilles, _Icones et descriptions plantarum_, 1797"
 	label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
 	fit="contain">
 <param ve-image
 	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
-	caption="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	caption="*Metrosideros quinquenervia, in Cavanilles, _Icones et descriptions plantarum_, 1797"
 	label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
 	fit="contain">
 
@@ -123,22 +123,22 @@ Part of what attracted European botanists and explorers to the paperbark was the
 For generations, the Indigenous populations of Oceania have used *Melaleuca* bark to build structures and dwellings. Among some groups, dwellings were built entirely by women who cut the bark, erected the structure, and carried the components on their backs when traveling.[^22] Paperbark sheeting was stored when not in use and, unavailable in some areas, sometimes had to be transported over considerable distances.[^23] Bark structures could range from rafts for fishing, an important Indigenous tradition across much of Oceania, open-air huts, as well as more substantive constructions intended as shelters against the wet season's rains. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings.[^24] The story tells of a man and woman out foraging who, when caught by surprise by the fast-approaching rainy season, construct one of the first *Melaleuca* bark shelters. Aside from the bark, *Melaleuca* lumber—hard and fine textured, and naturally resistant to termite attacks— is considered a good building material, though liable to warp and challenging to cut and season.
 <param ve-image 
         url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
-        caption="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland"
+        caption="Two people sitting in front of a bush hut, Queensland, ca. 1895. Image courtesy of the State Library of Queensland"
         label="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland" 
         description="A couple sitting outside their paperbark hut"
         license="Public Domain">
 <param ve-image 
         url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"        
-        caption="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
+        caption="Aboriginal men and a child outside of two paperbark humpies, Victoria River, NT, ca. 1900" 
         label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
         description="description needed"
         license="CC BY 4.0">
 <param ve-image 
         src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
-        caption="Bush Shower of Paperbark strips and timber, 1914">
+        caption="Bush shower of paperbark strips and timber, 1914">
 <param ve-image 
         url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
-        caption="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
+        caption="Two people and a dog on a paperbark canoe, ca. 1940" 
         label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
         description="canoe photo"
         license="public domain">
@@ -155,7 +155,7 @@ Ethnographic accounts describe countless further uses of Aboriginal Australians 
 	caption="Paperbark for food wrapping">
 <param ve-image 
 	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
-	caption="Paperbark Basket, England Banggala, 1994"
+	caption="Paperbark basket, England Banggala, 1994"
 	label="Paperbark Basket, England Banggala, 1994" 
 	description="basket"
 	license="granted by holder">
@@ -174,7 +174,7 @@ Paperbark provided women with a versatile utilitarian material. Not only was *Me
 As a result, Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. They incorporated paperbark into every phase of life, including funerary rituals, using it as a writing medium and for smoking, shelter, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
 	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
-	caption="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia"
+	caption="Two pieces of tree paperbark bearing protest messages, 1988. Image courtesy of the National Archives of Australia"
 	label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia, NAA: B5361, P40-0020" 
 	description="protest bark"
 	license="granted by holder">
@@ -221,18 +221,18 @@ As the twentieth century came to a close, so did the paperbark’s era of good g
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of controlling its spread.  Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever-encroaching, anthropomorphized enemy, the tree.  Battle tactics are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42] A 1997 article in *The New York Times* speaks of a valiant "Army of Tree-Hungry Beetles" ready for employment in the battle against the insidious paperbark. The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing "war."[^44]
 <param ve-image
        src="wc:Melaleuca_leaf_weevil.jpg"
-       caption="_Melaleuca_ Leaf Weevil, _Oxyops vitiosa_">
+       caption="_Melaleuca_ leaf weevil">
 
 It is a small jump from this metaphorical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he "trudged across the bulldozed fields" in south-east Queensland, shaking his head in dismay as he thought back to his "American friends, and how they would love to see a scene like this acted out in Florida." These areas of Australian wetland are fast being developed for human habitation. And even in still preserved wilderness, the tree faces ecological challenges. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple native to the Everglades, (*Annona glabra*). It is difficult not to conceive of this development as an act of botanical revenge.[^45]
 <param ve-image
        src="wc:Annona_glabra_01"
-       caption="*Annona glabra* or Pond Apple">
+       caption="*Annona glabra* or pond apple">
 
 # Conclusion
 Should this framing of conflict and warfare give us pause for thought? The label "invasive", as a scientific term applied to an organism, has its mainstream origins in zoologist Charles Elton’s 1958 work, *The Ecology of Invasions by Animals and Plants*, and caught on broadly only in the 1990s, when publications on "invasives" skyrocketed.[^46] In 1994, Hawai’i’s Senator Daniel Akaka spoke before Congress about the "slow, silent invasion of alien pests'' creeping across United States borders.[^47] By 1999, this concern had gained such traction that an executive order mandated the formation an inter-agency government coalition, the "National Invasive Species Council'', to eradicate botanical threats.[^48] Around the same time, several scholars of landscape design turned a critical eye to the tenor of this discourse and the countervailing enthusiasm for "native plants'', a term that constitutes a "mixture of sound biology, invalid ideas, false extensions, ethical implications and political usage both intended and unanticipated".[^49] In particular, Joachim Wolschke Bulmahn and Gert Gröning have sought to trace this discourse to ideologies of landscape under nazi Germany and American "nativism" in the early twentieth century. How easily, they ask, can the scientific become political? Can these conceptions of landscape feed xenophobia?[^50]
 <param ve-image
   url="https://www.biodiversitylibrary.org/pageImage/16604010"
-  caption="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
+  caption="Opening remarks of the 1994 congressional hearing, _Harmful Non-Indigenous Species in the United States_"
   label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
   fit="contain">
 
