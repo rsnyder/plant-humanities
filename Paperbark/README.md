@@ -112,7 +112,7 @@ The *quinquenervia* species of *Melaleuca* received formal botanical description
 
 # Indigenous Treasure 
 The paperbark’s centrality to Indigenous communities predates its eighteenth-century "discovery" by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the "Mudrooroo"; in the northern languages of Ngalakgan and Kunwinjku, it is the "Gu-got" and "Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in the United States, it continues to hold a pivotal role among Aboriginal cultures.
-<param ve-video vid="1n-zJNdfQJI" caption="Paper Bark, Aboriginal Spirit by Shaman Creative">
+<param ve-video vid="1n-zJNdfQJI">
 
 *Melaleuca* has many uses that intersect with daily life, as a source of food, medicine, fuel, and protection from the elements. The bark can be easily peeled from the tree and used for shelter construction, fuel, lumber, wrapping food, lining earth ovens, bundling babies, and as an antiseptic-laden bandage. The hardy trees also have environmental benefits, including soil conservation, windbreaking, erosion control, and providing habitats and sustenance for a multitude of organisms. Birds, bats, and invertebrates are among the creatures that live or feast upon paperbark trees.
 <param ve-vis-network title="Uses of Paperbark" url="Paperbarknetwork.tsv">
