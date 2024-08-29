@@ -29,7 +29,7 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 <param ve-entity eid="Q96374738" aliases="'champion tree'">
 <param ve-entity eid="Q2384419">
 <param ve-map
-        center="13.86516,29.49047,1.45"
+        center="30.065,9.57215,1.48"
         zoom="2"
         title="Global Spread of M. quinquenervia"
         basemap="Esri_WorldPhysical">
@@ -39,7 +39,7 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 	stroke-width="0">
  <param ve-map-marker
         url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
-        coords="26.11269252999823,-80.2293067600417"
+        coords="26.132,-80.5341"
         circle="true">
 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
