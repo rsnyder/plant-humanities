@@ -68,11 +68,6 @@ The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely r
         caption="Paperbark Fruit">
 
 The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as "the Pliny of the Indies," Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
-<param ve-entity eid="Q1043">
-<param ve-entity eid="Q61439">
-<param ve-entity eid="Q3827">
-<param ve-entity eid="Q159766">
-<param ve-entity eid="Q82778">
 <param ve-image 
        src="wc:G.E._Rumphius,_D%27Amboinsche,_frontispiece._Wellcome_L0022386.jpg"
        caption="Georg Eberhard Rumpf, alias 'Rumphius'">
