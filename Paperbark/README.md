@@ -76,7 +76,6 @@ The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observati
        caption="Georg Eberhard Rumpf, alias 'Rumphius'">
 
 In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as "Caju-puti", to which he adds the Latin Arbor alba (white tree) and Dutch "Witte Boom." He also provides an additional synonym, "Brant-Boomen" (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, "the bottom of this trunk is always most black, as if it had been burnt,"[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
-<param ve-entity eid="Q34740">
 <param ve-iframe                                               
        src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
        fit="contain">
@@ -88,24 +87,24 @@ Rumphius’ account of the paperbark’s appearance following a bushfire, its wh
 
 The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called "Botany Bay" on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
 <param ve-image
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
-  caption="Banks and Solander Herbarium Specimen"
-  label="Banks and Solander Herbarium Specimen"
-  fit="contain">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
+	caption="Banks and Solander Herbarium Specimen"
+	label="Banks and Solander Herbarium Specimen"
+	fit="contain">
 <param ve-image
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Banks%20Florilegium.jpg?raw=true"
-  caption="Banks' Floreilegium"
-  label="Banks' Florilegium">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Banks%20Florilegium.jpg?raw=true"
+	caption="Banks' Floreilegium"
+	label="Banks' Florilegium">
 <param ve-image
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
-  caption="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-  label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-  fit="contain">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
+	caption="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	fit="contain">
 <param ve-image
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
-  caption="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-  label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-  fit="contain">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
+	caption="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	fit="contain">
 
 # Indigenous Treasure 
 The paperbark’s centrality to Indigenous communities predates its eighteenth-century "discovery" by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the "Mudrooroo"; in the northern languages of Ngalakgan and Kunwinjku, it is the "Gu-got" and "Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in the United States, it continues to hold a pivotal role among Aboriginal cultures.
@@ -153,36 +152,33 @@ For generations, the Indigenous populations of Oceania have used *Melaleuca* bar
 
 Ethnographic accounts describe countless further uses of Aboriginal Australians using *Melaleuca* bark. It served for bedding, lining earth ovens, wrapping food for cooking and storage, as fuelwood or kindling, and making liquid holding vessels and baskets.[^25] More recently, Euro-Australians have also championed the culinary applications of the paperbark tree in combination with other Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note that food cooked while wrapped in paperbark takes on a smoky flavor and recommend this method for roasting fish, chicken, or vegetables. The plant’s culinary uses extend beyond the *Melaleuca* bark. For example, steeping *Melaleuca* tree blossoms creates a natural sweetener, which has been used for candies.[^26] *M. quinquenervia* is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida.
 <param ve-image 
-  url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
-  caption="Paperbark for food wrapping"
-  label="Paperbark for food wrapping" 
-  description="paperbark cuisine"
-  license="CC BY-SA 3.0">
+	src="wc:Paperbark_(bark).JPG"
+	caption="Paperbark for food wrapping">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
-  caption="Paperbark Basket, England Banggala, 1994"
-  label="Paperbark Basket, England Banggala, 1994" 
-  description="basket"
-  license="granted by holder">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
+	caption="Paperbark Basket, England Banggala, 1994"
+	label="Paperbark Basket, England Banggala, 1994" 
+	description="basket"
+	license="granted by holder">
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
-  caption="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998"
-  label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
-  description="bark painting"
-  license="granted by holder">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
+	caption="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998"
+	label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
+	description="bark painting"
+	license="granted by holder">
 
 Paperbark provided women with a versatile utilitarian material. Not only was *Melaleuca* ideal for building and cooking, but women incorporated the bark into the traditional birthing practices and the early care of infants.[^27] In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark or placed in a paperbark-lined coolamon (a basin-like vessel).
 <param ve-image 
-  src="wc:Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg" 
-  caption="Aboriginal *coolamons* or carrying vessels">
+	src="wc:Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg" 
+	caption="Aboriginal *coolamons* or carrying vessels">
 
 As a result, Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. They incorporated paperbark into every phase of life, including funerary rituals, using it as a writing medium and for smoking, shelter, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
-  url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
-  caption="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia"
-  label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia, NAA: B5361, P40-0020" 
-  description="protest bark"
-  license="granted by holder">
+	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
+	caption="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia"
+	label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia, NAA: B5361, P40-0020" 
+	description="protest bark"
+	license="granted by holder">
 
 Aboriginal Australians value paperbark so highly that some have incorporated it into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), an Aboriginal Australian activist, educator, and artist. Formerly known as Kath Walker, the new name she adopted in 1988 translates as "paperbark tree of the Noonuccal", her ancestral tribe. Noonuccal devoted her life to combating social inequality for the indigenous and advocating for the environment. Her writing explores themes of cultural identity, spirituality, place and time, interwoven with rich descriptions of Australia’s natural environment. Her poem "Oodgeroo" tells the story of a woman, severed from her culture and people who, with the help of Biami the Good Spirit, spent many years recording lost tribal stories on paperbark. It concludes with the female protagonist finding peace in a tribe of paperbark trees, free from her old foe, Time.[^28] "Oodgeroo" is exemplary in its exploration of ecological symbiosis, capturing both the *Melaleuca*’s utility and kinship with Aboriginal communities.
 <param ve-video vid="ZPQr30eEQdY" caption="Oodgeroo Noonuccal Reading Her Poems">
@@ -193,8 +189,8 @@ Aboriginal Australians value paperbark so highly that some have incorporated it 
 # Climate Change and Indigenous Management 
 In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures.[^29] Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
 <param ve-image
-  src="wc:Satellite_image_of_bushfire_smoke_over_Eastern_Australia_(December_2019).jpg" 
-  caption="Satellite image of bushfire smoke over Easter Australia, 2019">
+	src="wc:Satellite_image_of_bushfire_smoke_over_Eastern_Australia_(December_2019).jpg" 
+	caption="Satellite image of bushfire smoke over Easter Australia, 2019">
        
 Before the arrival of Europeans in Oceania, Indigenous peoples shaped their landscapes by facilitating the growth of specific flora, including *Melaleuca*. Pollen, charcoal, and dendrochronological records indicate that the environment of Australia before the eighteenth century required active management by Aboriginal Australians.[^30] Key environmental modifications include anthropogenic burning, wind-and water-induced soil erosion following the removal or alteration of vegetation, irrigation, drained wetlands, redirected waterways, fertilizer use, and the introduction and exploitation of specific flora and fauna.[^31] One of the most powerful tools for land management is anthropogenic or prescribed burning, The fires typically cover small areas of land, herding animals while burning grasses and underbrush. The heat and lack of competition encourage the growth of a heterogeneous range of annual vegetation, creating ecologically diverse patches. Small and frequently prescribed burning can reduce the chances of subsequent high-severity wildfires.[^32] To promote more sustainable practices, Australians have worked to reincorporate elements of Indigenous land management. For instance, the Ngarrindjeri Nation in South Australia has negotiated with the State Government to be recognized as a sovereign partner in environmental management and implemented a program that facilitates continued collaboration, training, and the protection of the sites’ cultural value.[^33] Federal funding has supported the replacement of non-native flora with *M. quinquenervia* and other endemic species native to eastern Australia, including tuckeroo and lomandra.[^34]
 <param ve-image
@@ -204,18 +200,19 @@ Before the arrival of Europeans in Oceania, Indigenous peoples shaped their land
 # An Advancing Enemy in Florida 
 The global dispersal of the paperbark tree was accompanied by a patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized a sparse few of the multitude of Aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around the Everglades saw potential in the *M. quinquenervia* as a timber species as well as a land management tool; as mentioned previously, they posited that its high water usage and its fast-growing speed would make it ideal for converting the swamp into a dry and "productive" agricultural landscape while eradicating mosquitos and other pests.[^35] The tree’s thick roots were utilized as a natural erosion-prevention infrastructure and were thus employed to stabilize disturbed areas, especially around Lake Okeechobee.[^36] Finally, especially in its early years, the paperbark was appreciated as an ornamental and was planted as such in gardens around south Florida.[^37] Today, scientists recognize another utility for *M. quinquenervia* as a climate recorder. The tree’s leaves can provide proxy data for quantifying past rainfall.[^38] Although limited in its uses when compared to its endemic range, the paperbark entered Florida as an appreciated and valuable addition. This positive image accompanied the tree for much of the twentieth century.
 <param ve-map
-       center="26.18764,-80.62886,7.71"
-       zoom="9"
-       Title="Dense areas of _M. quinquenervia_ in south Florida">
-<param ve-map-layer geojson url="EvergladesNew.json">
+       	center="26.18764,-80.62886,7.71"
+       	zoom="9"
+       	Title="Dense areas of _M. quinquenervia_ in south Florida">
+<param ve-map-layer geojson 
+	url="EvergladesNew.json">
 <param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Starr_031108-0007_Melaleuca_quinquenervia.jpg"
-       coords="26.161043, -81.077436"
-       circle="true">
+      	src="wc:Starr_031108-0007_Melaleuca_quinquenervia.jpg"
+       	coords="26.161043, -81.077436"
+       	circle="true">
 <param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/3/35/Florida_Lac_Okeechobee.jpg"
-       coords="26.960959, -80.795298"
-       circle="true">
+	url="https://upload.wikimedia.org/wikipedia/commons/3/35/Florida_Lac_Okeechobee.jpg"
+      	coords="26.960959, -80.795298"
+       	circle="true">
        
 As the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that made the tree initially attractive became those for which it is now most despised. *M. quinquenervia* grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions.[^39] South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of indigenous anthropogenic burning. These traits make *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction.[^40] Its seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres of Floridian land, most of which was comprised of monocultural stands.[^41]
 <param ve-image
@@ -248,7 +245,7 @@ These questions have necessarily faced pushback. In the case of the paperbark, a
   initial-zoom="1"
   height="750">
 
-### References
+# References
 [^1]: Robert Peckham, "Hygienic Nature: Afforestation and the greening of colonial Hong Kong," *Modern Asian Studies* vol. 83, no. 2, 2015, p. 1194. https://www.jstor.org/stable/24495425
 [^2]: *Ibid*. p. 1179.
 [^3]: *Ibid*. pp. 1187-1188.
