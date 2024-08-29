@@ -79,17 +79,11 @@ In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classi
        fit="contain">
 
 Rumphius’ account of the paperbark’s appearance following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s name, *Melaleuca*, as given to it by Linnaeus, taken from the Greek "mélas" (black) and "leukós" (white). It remains a strong association with the tree for those familiar with it. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) Australian novelist Peter Carey depicts a character, disfigured by burns, whose "pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark."[^14]  
-<param ve-entity eid="Q313254">
 <param ve-image 
        src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
        caption="Paperbark after a bushfire">
 
 The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called "Botany Bay" on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
-<param ve-entity eid="Q545430">
-<param ve-entity eid="Q153408">
-<param ve-entity eid="Q39789">
-<param ve-entity eid="Q7324" aliases="Captain Cook’s">
-<param ve-entity eid="Q894682">
 <param ve-image
   url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
   caption="Banks and Solander Herbarium Specimen"
@@ -112,15 +106,12 @@ The *quinquenervia* species of *Melaleuca* received formal botanical description
 
 # Indigenous Treasure 
 The paperbark’s centrality to Indigenous communities predates its eighteenth-century "discovery" by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the "Mudrooroo"; in the northern languages of Ngalakgan and Kunwinjku, it is the "Gu-got" and "Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in the United States, it continues to hold a pivotal role among Aboriginal cultures.
-<param ve-video vid="1n-zJNdfQJI">
+<param ve-video vid="1n-zJNdfQJI" caption="Paper Bark, Aboriginal Spirit by Shaman Creative">
 
 *Melaleuca* has many uses that intersect with daily life, as a source of food, medicine, fuel, and protection from the elements. The bark can be easily peeled from the tree and used for shelter construction, fuel, lumber, wrapping food, lining earth ovens, bundling babies, and as an antiseptic-laden bandage. The hardy trees also have environmental benefits, including soil conservation, windbreaking, erosion control, and providing habitats and sustenance for a multitude of organisms. Birds, bats, and invertebrates are among the creatures that live or feast upon paperbark trees.
 <param ve-vis-network title="Uses of Paperbark" url="Paperbarknetwork.tsv">
 
 Part of what attracted European botanists and explorers to the paperbark was the many medicinal applications of the tree. A tea brewed from young bruised leaves is drunk for headaches and general sickness. The leaf oil has been used to treat respiratory ailments, colds, and rheumatism and has antiseptic properties used to treat cuts and sores.[^19] Ironically, in the United States, *M. quinquenervia* has been labeled an allergen and respiratory irritant. Florida authorities used human health concerns to justify the 1990 ban on the sale, transportation, collection, cultivation, or possession of *Melaleuca*.[^20] More recently, studies have found *M. quinquenervia* is actually not a significant source of aeroallergen or a respiratory irritant.[^21] The essential oil produced by *M. quinquenervia* is used by many as an antibacterial, fungicide, and insect repellant, often intended to treat superficial skin conditions. However, modern producers derive commercially available tea tree oil from *M. alternifolia*, not *M. quinquenervia*. Commonly known as Niaouli, some sellers market the oil from the *M. quinquenervia* as having more robust properties than the more common tea tree oil.
-<param ve-entity eid="Q48832">
-<param ve-entity eid="Q193237">
-<param ve-entity eid="Q60849514" aliases="Niaouli">
 <param ve-image 
         url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
         caption="Tea tree oil"
@@ -158,7 +149,6 @@ For generations, the Indigenous populations of Oceania have used *Melaleuca* bar
         license="granted from holder">
 
 Ethnographic accounts describe countless further uses of Aboriginal Australians using *Melaleuca* bark. It served for bedding, lining earth ovens, wrapping food for cooking and storage, as fuelwood or kindling, and making liquid holding vessels and baskets.[^25] More recently, Euro-Australians have also championed the culinary applications of the paperbark tree in combination with other Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note that food cooked while wrapped in paperbark takes on a smoky flavor and recommend this method for roasting fish, chicken, or vegetables. The plant’s culinary uses extend beyond the *Melaleuca* bark. For example, steeping *Melaleuca* tree blossoms creates a natural sweetener, which has been used for candies.[^26] *M. quinquenervia* is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida.
-<param ve-entity eid="Q13580316" aliases="Euro-Australians">
 <param ve-image 
   url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
   caption="Paperbark for food wrapping"
@@ -179,7 +169,6 @@ Ethnographic accounts describe countless further uses of Aboriginal Australians 
   license="granted by holder">
 
 Paperbark provided women with a versatile utilitarian material. Not only was *Melaleuca* ideal for building and cooking, but women incorporated the bark into the traditional birthing practices and the early care of infants.[^27] In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark or placed in a paperbark-lined coolamon (a basin-like vessel).
-<param ve-entity eid="Q1129683">
 <param ve-image 
   src="wc:Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg" 
   caption="Aboriginal *coolamons* or carrying vessels">
@@ -193,7 +182,6 @@ As a result, Aboriginal Australians were born into paperbark, lived in paperbark
   license="granted by holder">
 
 Aboriginal Australians value paperbark so highly that some have incorporated it into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), an Aboriginal Australian activist, educator, and artist. Formerly known as Kath Walker, the new name she adopted in 1988 translates as "paperbark tree of the Noonuccal", her ancestral tribe. Noonuccal devoted her life to combating social inequality for the indigenous and advocating for the environment. Her writing explores themes of cultural identity, spirituality, place and time, interwoven with rich descriptions of Australia’s natural environment. Her poem "Oodgeroo" tells the story of a woman, severed from her culture and people who, with the help of Biami the Good Spirit, spent many years recording lost tribal stories on paperbark. It concludes with the female protagonist finding peace in a tribe of paperbark trees, free from her old foe, Time.[^28] "Oodgeroo" is exemplary in its exploration of ecological symbiosis, capturing both the *Melaleuca*’s utility and kinship with Aboriginal communities.
-<param ve-entity eid="Q457278">
 <param ve-video vid="ZPQr30eEQdY" caption="Oodgeroo Noonuccal Reading Her Poems">
 
 *This paragraph is dedicated to the over simplified network visual example. We plan on deleting this paragraph but we want to let the developers troubleshoot here if they'd like. Blah blah blah why won't our network work? We'd love to include it but oh well. Nonsense nonsense and now latin ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
@@ -230,14 +218,11 @@ As the twentieth century came to a close, so did the paperbark’s era of good g
 <param ve-image
        src="wc:Starr_031108-0008_Melaleuca_quinquenervia.jpg"
        caption="_M. quinquenervia_ stand lining I-75 in the Everglades">
-<param ve-entity eid="Q123452" aliases="endemic zone">
-<param ve-entity eid="Q220212" aliases="monocultural">
 
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of controlling its spread.  Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever-encroaching, anthropomorphized enemy, the tree.  Battle tactics are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42] A 1997 article in *The New York Times* speaks of a valiant "Army of Tree-Hungry Beetles" ready for employment in the battle against the insidious paperbark. The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing "war."[^44]
 <param ve-image
        src="wc:Melaleuca_leaf_weevil.jpg"
        caption="_Melaleuca_ Leaf Weevil, _Oxyops vitiosa_">
-<param ve-entity eid="Q116890" aliases="biological control">
 
 It is a small jump from this metaphorical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he "trudged across the bulldozed fields" in south-east Queensland, shaking his head in dismay as he thought back to his "American friends, and how they would love to see a scene like this acted out in Florida." These areas of Australian wetland are fast being developed for human habitation. And even in still preserved wilderness, the tree faces ecological challenges. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple native to the Everglades, (*Annona glabra*). It is difficult not to conceive of this development as an act of botanical revenge.[^45]
 <param ve-image
@@ -251,8 +236,6 @@ Should this framing of conflict and warfare give us pause for thought? The label
   caption="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
   label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
   fit="contain">
-<param ve-entity eid="Q42985020">
-<param ve-entity eid="Q1066200" aliases="Charles Elton's"> 
 
 These questions have necessarily faced pushback. In the case of the paperbark, after all, the ecological reality of its dominance in Florida cannot be denied, regardless of the language used to describe its spread. This debate is nevertheless part of the paperbark tree’s history. Its vilification arose at the same moment toward the end of the twentieth century. Just as "invasives" were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the Federal Noxious Weed List, restricting its sale, circulation, and importation throughout the United States.[^51] In the later part of the 1990s, this zeal for prevention morphed into one for eradication, and significant sums of money, from both federal agencies and NGOs, were put towards removing pre-existing stands in Florida. Legislation supported by its invasive status began to imply that nearly anything, including development, was preferable to the presence of the tree.[^52] In the space of a century, *M. quinquenervia* had fallen from a plant of immense possibility to an invasive, "garbage" weed. Nothing in the plant had changed; it continues to live and reproduce as it did at the moment of its first Western description. What did shift, however, was our illusion of control. The tree escaped the settings and roles that Floridian planters had hoped to consign it to, serving as a bitter reminder that human interests are but one force shaping our dynamic, global environment.
 <param ve-knightlab-timeline
