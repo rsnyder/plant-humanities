@@ -59,9 +59,11 @@ The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and
 The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as "broadleaf", can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of *Melaleucas*, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree". *M. quinquenervia* specimens feature dark, gray-green leaves. The name *quinquenervia* is taken from the Latin words for five (quinque) and veins (nervia), describing the five veins typically found upon the plant’s leaves. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil.
 <param ve-image 
         src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
-        caption="Paperbark in flower"
+        caption="Paperbark in flower">
+<param ve-image 
         src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
-        caption="Bark structure" 
+        caption="Bark structure">
+<param ve-image
         src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg" 
         caption="Paperbark Fruit">
 
