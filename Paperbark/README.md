@@ -31,7 +31,7 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 <param ve-map
         center="30.065,9.57215,1.48"
         zoom="2"
-        title="Global Spread of M. quinquenervia"
+        title="Global spread of *M. quinquenervia*"
         basemap="Esri_WorldPhysical">
  <param ve-map-layer geojson 
         url="GlobalReach.json"
