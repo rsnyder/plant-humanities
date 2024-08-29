@@ -43,7 +43,6 @@ A similar tale of afforestation drives further histories of the paperbark and ca
         circle="true">
 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
-<param ve-entity eid="Q494624">
 <param ve-image 
         url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
         caption="Lange melaleuca, struck by lightning in 1990" 
@@ -246,18 +245,18 @@ These questions have necessarily faced pushback. In the case of the paperbark, a
   height="750">
 
 # References
-[^1]: Robert Peckham, "Hygienic Nature: Afforestation and the greening of colonial Hong Kong," *Modern Asian Studies* vol. 83, no. 2, 2015, p. 1194. https://www.jstor.org/stable/24495425
-[^2]: *Ibid*. p. 1179.
-[^3]: *Ibid*. pp. 1187-1188.
-[^4]: *Ibid*. pp. 1181-1182.
-[^5]: Richard T. Corlett, "Environmental forestry in Hong Kong: 1871-1997," *Forest Ecology and Management*, no. 116, 1999, p. 96. https://www.academia.edu/18830201/Environmental_forestry_in_Hong_Kong_1871_1997
+[^1]: Robert Peckham, "Hygienic Nature: Afforestation and the greening of colonial Hong Kong," *Modern Asian Studies* vol. 83, no. 2, 2015, 1194. https://www.jstor.org/stable/24495425
+[^2]: Ibid., 1179.
+[^3]: Ibid., 1187-1188.
+[^4]: Ibid., 1181-1182.
+[^5]: Richard T. Corlett, "Environmental forestry in Hong Kong: 1871-1997," *Forest Ecology and Management*, no. 116, 1999, 96. https://www.academia.edu/18830201/Environmental_forestry_in_Hong_Kong_1871_1997
 [^6]: United States, Congress, Senate, Committee on Public Lands, *Everglades of the Peninsula of Florida*, August 1848, 30th Congress, 1st Session.
-[^7]: C.E. Turner, T.D. Center, D.W. Burrows, and G.R. Buckingham, "Ecology and management of _Melaleuca quinquenervia_, and invader of wetlands in Florida, U.S.A.," *Wetlands Ecology and Management*, no. 5, 1998, p. 167. https://link.springer.com/article/10.1023/A:1008205122757
-[^8]: Allen F. Dray, Bradley C. Bennett, and Ted D. Center, "Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida," *Castanea*, vol. 3, no. 71, 2006, pp. 210-225. https://bioone.org/journals/castanea/volume-71/issue-3/05-27.1/Invasion-History-of-Melaleuca-quinquenervia-Cav-ST-Blake-in-Florida/10.2179/05-27.1.full
+[^7]: C.E. Turner, T.D. Center, D.W. Burrows, and G.R. Buckingham, "Ecology and management of _Melaleuca quinquenervia_, and invader of wetlands in Florida, U.S.A.," *Wetlands Ecology and Management*, no. 5, 1998, 167. https://link.springer.com/article/10.1023/A:1008205122757
+[^8]: Allen F. Dray, Bradley C. Bennett, and Ted D. Center, "Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida," *Castanea*, vol. 3, no. 71, 2006, 210-225. https://bioone.org/journals/castanea/volume-71/issue-3/05-27.1/Invasion-History-of-Melaleuca-quinquenervia-Cav-ST-Blake-in-Florida/10.2179/05-27.1.full
 [^9]: Bob French, "Melaleuca Misery" in *South Florida Sun-Sentinel*, May 20 1994. <https://www.sun-sentinel.com/news/fl-xpm-1994-05-20-9405190232-story.html> [Accessed Aug. 5 2022]
 [^10]: Bob French, "Shrine Shades Tree from Foes" Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction' in *South Florida Sun-Sentinel*, April 15 1991. https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html. Accessed Aug. 5 2022.
-[^11]: French, 1994. [see [^9]]
-[^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885
+[^11]: French, "Melaleuca Misery."
+[^12]: H.C.D. De Wit, "In Memory of G. E. Rumphius (1702-1952)," *Taxon*, vol. 1, no. 7, 1952, 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885
 [^13]: Georg Rumphius. Burmannus, Joannes (ed.). *Herbarium Amboinense, plurimas conplectens arbores, frutices, herbas, plantas terrestres & aquaticas, quae in Amboina, et adjacentibus reperiuntur insulis*. Amstelaedami, Apud Fransicum Changuion, Joannem Catuffe, Hermannum Uytwerf, vol. 2 (1741): 72-73. 
 [^14]: Peter Carey, *Parrot and Oliver in America*. New York: Knopf, 2010, 276. 
 [^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4. Madrid, 1797, p. 19.
