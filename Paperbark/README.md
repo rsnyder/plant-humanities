@@ -11,7 +11,7 @@ Cultural warning: Aboriginal and Torres Strait Islander people should be aware t
 # Introduction: A Fall from Grace
 Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in [Hong Kong](1054923) along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst "primitive."[^1] The self-identified task of the British colonial government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside.[^2] The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century.[^3] Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors of Hong Kong, such as northeastern Australia, [New Caledonia], and the island of New Guinea.[^4] One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and as part of wetland ecosystems.[^5]
 <param ve-image 
-        src="gh:plant-humanities/media/Paperbark/Treebark_HongKong.jpg"
+        src="gh:plant-humanities/media/paperbark/Treebark_HongKong.jpg"
         caption="Australian paperbark trees line a main road in Hong Kong. Photo taken by Hedda Morrison, 1946-1947"
         label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
         description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
@@ -38,13 +38,13 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
 <param ve-image
-	src="gh:plant-humanities/media/Paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
+	src="gh:plant-humanities/media/paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
         caption="*Melaleuca* tree growing in Lange Park, struck by lightning in 1990"
 	label="*Melaleuca* tree growing in Lange Park, struck by lightning in 1990"
         description="Lange Melaleuca, Struck by Lightning"
         license="Unknown">
 <param ve-image 
-        src="gh:plant-humanities/media/Paperbark/LanguePark_plaque.jpg"
+        src="gh:plant-humanities/media/paperbark/LanguePark_plaque.jpg"
         caption="Memorial plague at Lange Park"
 	label="Memorial plague at Lange Park"
         description="Memorial Plaque, Lange Park"
