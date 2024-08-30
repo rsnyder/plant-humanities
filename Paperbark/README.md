@@ -8,14 +8,14 @@
   
 Cultural warning: Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
 <param ve-image 
-        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
+        src="gh:plant-humanities/media/paperbark/Treebark_HongKong.jpg"
         caption="Australian paperbark trees line a main road in Hong Kong. Photo taken by Hedda Morrison, 1946-1947"
         label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
         description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
         license="Unknown">
   
 # Introduction: A Fall from Grace
-Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst "primitive."[^1] The self-identified task of the British colonial government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside.[^2] The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century.[^3] Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors of Hong Kong, such as northeastern Australia, New Caledonia, and the island of New Guinea.[^4] One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and as part of wetland ecosystems.[^5]
+Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in [Hong Kong](1054923) along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst "primitive."[^1] The self-identified task of the British colonial government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside.[^2] The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century.[^3] Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors of Hong Kong, such as northeastern Australia, [New Caledonia], and the island of New Guinea.[^4] One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and as part of wetland ecosystems.[^5]
 <param ve-image 
         url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
         caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
@@ -182,7 +182,7 @@ Aboriginal Australians value paperbark so highly that some have incorporated it 
 <param ve-video vid="ZPQr30eEQdY" caption="Oodgeroo Noonuccal Reading Her Poems">
 
 *This paragraph is dedicated to the over simplified network visual example. We plan on deleting this paragraph but we want to let the developers troubleshoot here if they'd like. Blah blah blah why won't our network work? We'd love to include it but oh well. Nonsense nonsense and now latin ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
-<param ve-vis-network title="Network example" url="Networkexample.tsv">
+<param ve-visjs title="Network example" url="Networkexample.tsv">
 
 # Climate Change and Indigenous Management 
 In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures.[^29] Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
