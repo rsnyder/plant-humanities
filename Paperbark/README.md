@@ -44,8 +44,8 @@ A similar tale of afforestation drives further histories of the paperbark and ca
 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
 <param ve-image
-url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
-        caption="*Melaleuca* tree growing in Lange Park struck by lightning in 1990" 
+	src="gh:plant-humanities/media/Paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
+        caption="*Melaleuca* tree growing in Lange Park, struck by lightning in 1990" 
         label="Lange Melaleuca, Struck by Lightning in 1990" 
         description="Lange Melaleuca, Struck by Lightning"
         license="Unknown">
