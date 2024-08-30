@@ -40,13 +40,11 @@ The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and
 <param ve-image
 	src="gh:plant-humanities/media/Paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
         caption="*Melaleuca* tree growing in Lange Park, struck by lightning in 1990" 
-        label="Lange Melaleuca, Struck by Lightning in 1990" 
         description="Lange Melaleuca, Struck by Lightning"
         license="Unknown">
 <param ve-image 
         src="gh:plant-humanities/media/Paperbark/LanguePark_plaque.jpg"
         caption="Memorial plague at Lange Park"
-        label="Lange Plaque" 
         description="Memorial Plaque, Lange Park"
         license="Unknown"
         fit="contain">
