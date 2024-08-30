@@ -69,6 +69,9 @@ The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely r
 <param ve-image 
     src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg"
     caption="Paperbark Fruit">
+<param ve-gallery src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg">
+<param ve-gallery src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg">
+<param ve-gallery src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg">
 
 The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as "the Pliny of the Indies," Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
 <param ve-entity eid="Q1043">
