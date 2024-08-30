@@ -43,8 +43,8 @@ A similar tale of afforestation drives further histories of the paperbark and ca
         circle="true">
 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die", insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] These later comments follow a series of laws passed in the 1990s and designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems." It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances?
-<param ve-image 
-        url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
+<param ve-image
+url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
         caption="*Melaleuca* tree growing in Lange Park struck by lightning in 1990" 
         label="Lange Melaleuca, Struck by Lightning in 1990" 
         description="Lange Melaleuca, Struck by Lightning"
@@ -86,7 +86,7 @@ Rumphius’ account of the paperbark’s appearance following a bushfire, its wh
 
 The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called "Botany Bay" on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
 <param ve-image
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
+	url="gh:plant-humanities/media/paperbark/PaperbarkHerbarium.jpeg"
 	caption="Banks and Solander herbarium specimen"
 	label="Banks and Solander Herbarium Specimen"
 	fit="contain">
