@@ -105,21 +105,21 @@ The paperbark’s centrality to Indigenous communities predates its eighteenth-c
 
 Part of what attracted European botanists and explorers to the paperbark was the many medicinal applications of the tree. A tea brewed from young bruised leaves is drunk for headaches and general sickness. The leaf oil has been used to treat respiratory ailments, colds, and rheumatism and has antiseptic properties used to treat cuts and sores.[^19] Ironically, in the United States, *M. quinquenervia* has been labeled an allergen and respiratory irritant. Florida authorities used human health concerns to justify the 1990 ban on the sale, transportation, collection, cultivation, or possession of *Melaleuca*.[^20] More recently, studies have found *M. quinquenervia* is actually not a significant source of aeroallergen or a respiratory irritant.[^21] The essential oil produced by *M. quinquenervia* is used by many as an antibacterial, fungicide, and insect repellant, often intended to treat superficial skin conditions. However, modern producers derive commercially available tea tree oil from *M. alternifolia*, not *M. quinquenervia*. Commonly known as Niaouli, some sellers market the oil from the *M. quinquenervia* as having more robust properties than the more common tea tree oil.
 <param ve-image 
-        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
+        src="gh:plant-humanities/media/paperbark/oil.jpg"
         caption="Tea tree oil"
         label="Tea Tree Oil" 
-        description="description needed"
+        description="Use of tea tree oil on the skin"
         license="Unsplash photos are made to be used freely">
 
 For generations, the Indigenous populations of Oceania have used *Melaleuca* bark to build structures and dwellings. Among some groups, dwellings were built entirely by women who cut the bark, erected the structure, and carried the components on their backs when traveling.[^22] Paperbark sheeting was stored when not in use and, unavailable in some areas, sometimes had to be transported over considerable distances.[^23] Bark structures could range from rafts for fishing, an important Indigenous tradition across much of Oceania, open-air huts, as well as more substantive constructions intended as shelters against the wet season's rains. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings.[^24] The story tells of a man and woman out foraging who, when caught by surprise by the fast-approaching rainy season, construct one of the first *Melaleuca* bark shelters. Aside from the bark, *Melaleuca* lumber—hard and fine textured, and naturally resistant to termite attacks— is considered a good building material, though liable to warp and challenging to cut and season.
 <param ve-image 
-        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
+        src="gh:plant-humanities/media/paperbark/Paperbarkhut.png"
         caption="Two people sitting in front of a bush hut, Queensland, ca. 1895. Image courtesy of the State Library of Queensland"
         label="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland" 
         description="A couple sitting outside their paperbark hut"
         license="Public Domain">
 <param ve-image 
-        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"        
+        src="gh:plant-humanities/media/paperbark/dwellings.jpg"        
         caption="Aboriginal men and a child outside of two paperbark humpies, Victoria River, NT, ca. 1900" 
         label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
         description="description needed"
@@ -128,13 +128,13 @@ For generations, the Indigenous populations of Oceania have used *Melaleuca* bar
         src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
         caption="Bush shower of paperbark strips and timber, 1914">
 <param ve-image 
-        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
+        src="gh:plant-humanities/media/paperbark/raft.jpg"
         caption="Two people and a dog on a paperbark canoe, ca. 1940" 
         label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
         description="canoe photo"
         license="public domain">
 <param ve-image 
-        url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
+        src="gh:plant-humanities/media/paperbark/Raftdesign.png"
         caption="_Walba_, David Payne"
         label="_Walba_, David Payne" 
         description="raft design"
@@ -145,13 +145,13 @@ Ethnographic accounts describe countless further uses of Aboriginal Australians 
 	src="wc:Paperbark_(bark).JPG"
 	caption="Paperbark for food wrapping">
 <param ve-image 
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
+	src="gh:plant-humanities/media/paperbark/basket.png"
 	caption="Paperbark basket, England Banggala, 1994"
 	label="Paperbark Basket, England Banggala, 1994" 
 	description="basket"
 	license="granted by holder">
 <param ve-image 
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
+	src="gh:plant-humanities/media/paperbark/barkpainting.png"
 	caption="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998"
 	label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
 	description="bark painting"
@@ -164,7 +164,7 @@ Paperbark provided women with a versatile utilitarian material. Not only was *Me
 
 As a result, Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. They incorporated paperbark into every phase of life, including funerary rituals, using it as a writing medium and for smoking, shelter, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
+	src="gh:plant-humanities/media/paperbark/Artifact1988.jpg"
 	caption="Two pieces of tree paperbark bearing protest messages, 1988. Image courtesy of the National Archives of Australia"
 	label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia, NAA: B5361, P40-0020" 
 	description="protest bark"
