@@ -84,19 +84,17 @@ The *quinquenervia* species of *Melaleuca* received formal botanical description
 	caption="Banks and Solander herbarium specimen"
 	label="Banks and Solander Herbarium Specimen">
 <param ve-image
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Banks%20Florilegium.jpg?raw=true"
-	caption="Banks' *Floreilegium*"
+	src="gh:plant-humanities/media/paperbark/Banks_Florilegium.jpg"
+	caption="Banks' Florilegium"
 	label="Banks' Florilegium">
 <param ve-image
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
+	src="gh:plant-humanities/media/paperbark/cavdes.jpg"
 	caption="Description of *Metrosideros quinquenervia* in Cavanilles, _Icones et descriptions plantarum_, 1797"
-	label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-	fit="contain">
+	label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797">
 <param ve-image
-	url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
+	src="gh:plant-humanities/media/paperbark/cavimage.jpg"
 	caption="*Metrosideros quinquenervia, in Cavanilles, _Icones et descriptions plantarum_, 1797"
-	label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-	fit="contain">
+	label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797">
 
 # Indigenous Treasure 
 The paperbark’s centrality to Indigenous communities predates its eighteenth-century "discovery" by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the "Mudrooroo"; in the northern languages of Ngalakgan and Kunwinjku, it is the "Gu-got" and "Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in the United States, it continues to hold a pivotal role among Aboriginal cultures.
