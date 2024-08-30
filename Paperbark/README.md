@@ -98,18 +98,18 @@ The *quinquenervia* species of *Melaleuca* received formal botanical description
 <param ve-entity eid="Q7324" aliases="Captain Cook’s">
 <param ve-entity eid="Q894682">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
+    url="gh:plant-humanities/media/paperbark/PaperbarkHerbarium.jpeg"
     label="Banks and Solander Herbarium Specimen"
     fit="contain">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Banks%20Florilegium.jpg?raw=true"
+    url="gh:plant-humanities/media/paperbark/PBanks%20Florilegium.jpg"
     label="Banks' Florilegium">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
+    url="gh:plant-humanities/media/paperbark/Pcavdes.jpg"
     label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
     fit="contain">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
+    url="gh:plant-humanities/media/paperbark/Pcavimage.jpg"
     label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
     fit="contain">
 
