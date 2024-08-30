@@ -50,7 +50,7 @@ The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and
         description="Lange Melaleuca, Struck by Lightning"
         license="Unknown">
 <param ve-image 
-        url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
+        src="gh:plant-humanities/media/Paperbark/LanguePark_plaque.jpg"
         caption="Memorial plague at Lange Park"
         label="Lange Plaque" 
         description="Memorial Plaque, Lange Park"
