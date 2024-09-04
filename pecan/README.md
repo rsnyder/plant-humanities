@@ -172,7 +172,7 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 	caption="Young girl serving pecan pie">
 
 ## References 
-[^1]: Steven Petrow, “History | I LovePecans,” National Pecan Shellers Association, accessed April 14, 2024, <https://ilovepecans.org/history/>.
+[^1]: Steven Petrow, “History | I LovePecans,” National Pecan Shellers Association, accessed April 14, 2024, https://ilovepecans.org/history/.
 
 [^2]: James McWilliams, *The Pecan: A History of America’s Native Nut* (Austin: University of Texas Press, 2013), 7.
 
