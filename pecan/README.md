@@ -41,7 +41,7 @@ In 1533, Spanish explorers became the first Europeans to encounter the North Ame
 	src="wc:Expedition_Cabeza_de_Vaca_Karte.png"
 	caption="Map of Cabeza de Vaca Expedition">
 
-Moreover, the Europeans' negative perception of the pecan, associated with Native American foraging methods, might have also contributed to its delayed recognition as a delicious nut worth cultivating.[^13] In fact, it was not until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marest, learned from the Native Americans of Illinois that the pecan was distinct from the walnut. Writing to his Jesuit community in Europe, he noted, “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”[^14]
+Moreover, Europeans' negative perception of the pecan, associated with Native American foraging methods, might have also contributed to its delayed recognition as a delicious nut worth cultivating.[^13] In fact, it was not until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marest, learned from the Native Americans of Illinois that the pecan was distinct from the walnut. Writing to his Jesuit community in Europe, he noted, “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”[^14]
 <param ve-image
 	src="wc:A_plan_of_the_several_villages_in_the_illinois_country.png"
 	caption="Illustrated Map of Mississippi River and Kaskaskia Village" 
