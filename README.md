@@ -21,12 +21,20 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
+[Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
+
+- MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pecan.jpg)
+
 ## Okra: An Enduring Kitchen Staple
 [Okra: An Enduring Kitchen Staple](okra)
 
 - Allison Caban and Malek Charchour
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
+
 ## Indigo: Layers of Paint, History, and Art
 [Indigo: Layers of Paint, History, and Art](indigo)
 
@@ -217,6 +225,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Allison Caban and Malek Charchour
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
+
 ## Opium Poppy: A Cursed Beauty
 [Opium Poppy: A Cursed Beauty](poppy)
 
@@ -230,6 +239,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Maria Job, Elizabeth Chant, and Katherine Enright
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/peanut.jpg)
+
+## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
+[Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
+
+- MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pecan.jpg)
 
 ## Pelargonium: By Any Other Name Would Smell as Sweet?
 [Pelargonium: By Any Other Name Would Smell as Sweet?](pelargonium)
