@@ -23,7 +23,7 @@ Throughout the late nineteenth and twentieth centuries, one could trace the expa
     description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
     license="Unknown">
 
-A similar tale of afforestation drives further histories of the paperbark and can be implicated in its transformation from a treasured specimen tree to pernicious weed. Early twentieth-century developers in South Florida likewise employed the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.[^6] For decades, agriculturalists lauded *M. quinquenervia* as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Local and federal horticultural agencies subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp.[^7] So highly prized was the paperbark for both its utility and ornamental value that early seed importers jostled to be recognized as its first American planters.[^8] A [memorial plaque in Lange Park,](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg) less than ten miles east of the Everglades, boasts that a *Melaleuca* planted there in 1900 by John C. Lange to be the oldest in the region. Towering over 25 meters prior to a lightning strike in 1990, it also came to be the tallest, for which it was awarded listed status as a so-called 'champion tree' by the American Forestry Association of 1981.[^9]
+A similar tale of afforestation drives further histories of the paperbark and can be implicated in its transformation from a treasured specimen tree to pernicious weed. Early twentieth-century developers in South Florida likewise employed the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.[^6] For decades, agriculturalists lauded *M. quinquenervia* as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Local and federal horticultural agencies subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp.[^7] So highly prized was the paperbark for both its utility and ornamental value that early seed importers jostled to be recognized as its first American planters.[^8] A [memorial plaque in Lange Park,](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg) less than ten miles east of the Everglades, boasts that a *Melaleuca* planted there in 1900 by John C. Lange to be the oldest in the region. Towering over 25 meters prior to a lightning strike in 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ['champion tree'](Q96374738) by the [American Forestry Association](Q41806542) of 1981.[^9]
 <param ve-entity eid="Q41806542">
 <param ve-entity eid="Q597281">
 <param ve-entity eid="Q96374738" aliases="'champion tree'">
@@ -69,6 +69,9 @@ The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely r
 <param ve-image 
     src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg"
     caption="Paperbark Fruit">
+<param ve-gallery src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg">
+<param ve-gallery src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg">
+<param ve-gallery src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg">
 
 The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as "the Pliny of the Indies," Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
 <param ve-entity eid="Q1043">
@@ -98,20 +101,17 @@ The *quinquenervia* species of *Melaleuca* received formal botanical description
 <param ve-entity eid="Q7324" aliases="Captain Cook’s">
 <param ve-entity eid="Q894682">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
-    label="Banks and Solander Herbarium Specimen"
-    fit="contain">
+    src="gh:plant-humanities/media/paperbark/PaperbarkHerbarium.jpeg"
+    label="Banks and Solander Herbarium Specimen">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Banks%20Florilegium.jpg?raw=true"
+    src="gh:plant-humanities/media/paperbark/Banks_Florilegium.jpg"
     label="Banks' Florilegium">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
-    label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-    fit="contain">
+    src="gh:plant-humanities/media/paperbark/cavdes.jpg"
+    label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797">
 <param ve-image
-    url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
-    label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
-    fit="contain">
+    src="gh:plant-humanities/media/paperbark/cavimage.jpg"
+    label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797">
 
 ### Indigenous Treasure
 
